@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+*.pem
+*.key
+*.log
+*.sqlite
+*.zip
+*.tar.gz
+*.so
+*.dll
+*.dylib
+*.bin

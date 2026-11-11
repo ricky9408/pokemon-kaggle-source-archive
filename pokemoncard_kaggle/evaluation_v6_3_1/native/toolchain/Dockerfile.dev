@@ -1,0 +1,79 @@
+FROM debian:bookworm-slim
+
+ARG DEBIAN_FRONTEND=noninteractive
+ARG LLVM_RELEASE=16.0.6
+ARG LLVM_TAG=llvmorg-16.0.6
+ARG LLVM_COMMIT=7cbf1a2591520c2491aa35339f227775f4d3adf6
+ARG LLVM_SOURCE_SHA256=ce5e71081d17ce9e86d7cbcfa28c4b04b9300f8fb7e78422b1feb6bc52c3028e
+ARG LLVM_SOURCE_URL=https://github.com/llvm/llvm-project/releases/download/llvmorg-16.0.6/llvm-project-16.0.6.src.tar.xz
+
+# Debian Clang is only the bootstrap compiler. It cannot generate protocol
+# observations; the extractor links to the exact upstream source build below.
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+        ca-certificates \
+        clang-16 \
+        cmake \
+        curl \
+        g++ \
+        git \
+        libc6-dev \
+        libedit-dev \
+        libffi-dev \
+        libtinfo-dev \
+        ninja-build \
+        python3 \
+        xz-utils \
+        zlib1g-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN curl --fail --location --retry 3 \
+        --output /tmp/llvm-project.src.tar.xz "${LLVM_SOURCE_URL}" \
+    && echo "${LLVM_SOURCE_SHA256}  /tmp/llvm-project.src.tar.xz" | sha256sum --check --strict \
+    && mkdir -p /opt/llvm-src \
+    && tar --extract --xz --file /tmp/llvm-project.src.tar.xz \
+        --strip-components=1 --directory /opt/llvm-src \
+    && rm /tmp/llvm-project.src.tar.xz
+
+RUN cmake -S /opt/llvm-src/llvm -B /opt/llvm-build -G Ninja \
+        -DCMAKE_BUILD_TYPE=Release \
+        -DCMAKE_C_COMPILER=/usr/bin/clang-16 \
+        -DCMAKE_CXX_COMPILER=/usr/bin/clang++-16 \
+        -DCMAKE_INSTALL_PREFIX=/opt/llvm-install \
+        -DLLVM_ENABLE_PROJECTS=clang \
+        -DLLVM_TARGETS_TO_BUILD=X86 \
+        -DLLVM_ENABLE_ASSERTIONS=OFF \
+        -DLLVM_ENABLE_BINDINGS=OFF \
+        -DLLVM_ENABLE_LIBXML2=OFF \
+        -DLLVM_ENABLE_RTTI=ON \
+        -DLLVM_ENABLE_TERMINFO=OFF \
+        -DLLVM_ENABLE_ZSTD=OFF \
+        -DLLVM_INCLUDE_BENCHMARKS=OFF \
+        -DLLVM_INCLUDE_EXAMPLES=OFF \
+        -DLLVM_INCLUDE_TESTS=OFF \
+        -DCLANG_INCLUDE_EXAMPLES=OFF \
+        -DCLANG_INCLUDE_TESTS=OFF \
+    && cmake --build /opt/llvm-build --target clang clang-cpp --parallel 4
+
+RUN install -d /v631302/toolchain/bin /v631302/toolchain/lib \
+        /v631302/toolchain/sysroot/usr \
+    && ln -s /opt/llvm-build/bin/clang /v631302/toolchain/bin/clang \
+    && ln -s /opt/llvm-build/bin/clang++ /v631302/toolchain/bin/clang++ \
+    && cp -aL /opt/llvm-build/lib/clang /v631302/toolchain/lib/clang \
+    && cp -aL /usr/include /v631302/toolchain/sysroot/usr/include
+
+ENV PATH="/opt/llvm-build/bin:${PATH}" \
+    LLVM_DIR="/opt/llvm-build/lib/cmake/llvm" \
+    Clang_DIR="/opt/llvm-build/lib/cmake/clang"
+
+LABEL org.opencontainers.image.title="v6.3.1 State3 llvmorg-16.0.6 development toolchain" \
+      org.opencontainers.image.description="Zero-authority Linux/amd64 native-extractor development image" \
+      org.opencontainers.image.version="20260802" \
+      io.garlictoday.evaluation.protocol="631302" \
+      io.garlictoday.evaluation.bootstrap-base-observed-digest="sha256:7b140f374b289a7c2befc338f42ebe6441b7ea838a042bbd5acbfca6ec875818" \
+      io.garlictoday.evaluation.llvm-tag="llvmorg-16.0.6" \
+      io.garlictoday.evaluation.llvm-commit="7cbf1a2591520c2491aa35339f227775f4d3adf6" \
+      io.garlictoday.evaluation.llvm-source-sha256="ce5e71081d17ce9e86d7cbcfa28c4b04b9300f8fb7e78422b1feb6bc52c3028e" \
+      io.garlictoday.evaluation.authority="false"
+
+WORKDIR /workspace

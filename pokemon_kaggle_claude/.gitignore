@@ -1,0 +1,12 @@
+data/pokemon-tcg-ai-battle.zip
+data/ptcg_engine/
+scouting/*/
+runs/
+submissions/
+__pycache__/
+*.pyc
+.venv/
+analysis/*.jsonl
+runs/kanga_eps/
+staging/anchors/*/cg/
+staging/anchors/*/*.bin

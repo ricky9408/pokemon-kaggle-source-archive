@@ -1,0 +1,5142 @@
+[
+  {
+    "path": "pokemoncard_kaggle/.gitignore",
+    "bytes": 567,
+    "sha256": "414a0d467c6bb2a73964855e5a424bcceb437f36a9659d09150bb776bbd3ac10"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/grok_psychic_tempo_control/main.py",
+    "bytes": 24706,
+    "sha256": "99e724ebe5438914c36a8889985a8cbbbf37690ec43c247307e3fda57861199f"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/grok_psychic_tempo_final/main.py",
+    "bytes": 25295,
+    "sha256": "5d7400286a1afd497f198c2509e3a649086dcd194c1cefdfe407b9292e7780f5"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/grok_psychic_tempo_v2/main.py",
+    "bytes": 24641,
+    "sha256": "d42adf8389ca6369d2d4472eb704c91e4b14c6cc7f7acfcfefefba89f89d5b00"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/grok_psychic_tempo_v3/main.py",
+    "bytes": 24570,
+    "sha256": "054ffe330bb51118645eaf45d0f480231ef4f56a910e015dbd293552fc9e0f0e"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/grok_psychic_tempo_v4/main.py",
+    "bytes": 21349,
+    "sha256": "9d7077991d940d7575c13a1dcb1105222a799ffa322c61ca38157f13088d12ab"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/grok_psychic_tempo_v5/main.py",
+    "bytes": 21349,
+    "sha256": "9d7077991d940d7575c13a1dcb1105222a799ffa322c61ca38157f13088d12ab"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/grok_psychic_tempo_v6/main.py",
+    "bytes": 20623,
+    "sha256": "1a497084a2a4a14d76be5394f4c8099906867215a96b9461b774369f0e0f10a8"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v100_hiroingk_hammer_dudun_lethal_attack/main.py",
+    "bytes": 19722,
+    "sha256": "12e9394242fe40460e9a37a382a1ec6e7fd5bb8cf0ee2548f548371fd78d12ef"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v100_psychic_control_final/main.py",
+    "bytes": 20112,
+    "sha256": "231716bf97661800a7121a5515d895a24fb7e8d23e968ae451c3003e55148167"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v101_claude_alakazam_control_v1/main.py",
+    "bytes": 22050,
+    "sha256": "e069795a04468eb82fed6b4c6e72d009e20a99e008ea802107b760be76c712d9"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v102_claude_alakazam_hammer_v1/main.py",
+    "bytes": 21752,
+    "sha256": "4602a10204fea05b542ed2daaac6d0469df94e4129e59b5753d2279889f848c6"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v103_claude_ml_psychic_control_v1/main.py",
+    "bytes": 33444,
+    "sha256": "afc95286df761723d0d588aa2f9de1e2a9c8a2a6931ab959e6a9f90b3ced662f"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v104_codex_anchor_tempo/main.py",
+    "bytes": 22250,
+    "sha256": "1746d713fe515e70f3bbbe1536a619a19e52196f384cf8ea9ce6d0e45fade7fb"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v105_codex_prize_guard/main.py",
+    "bytes": 20801,
+    "sha256": "57c6c4aee9d63236deb18a5309d1d96153234754d454f8dc0c893e4a92b83700"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v106_codex_setup_guard/main.py",
+    "bytes": 22267,
+    "sha256": "a8dc67d3be3fc0f3fb95be69ce6456d563d9c3f143a6c0801ebc522fc9451245"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v107_codex_setup_guard/main.py",
+    "bytes": 22206,
+    "sha256": "da071e335398173a39916b16dbb52030f6af30a8a45e441dfd13b23781b9c2d8"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v108_codex_crustle_guard/main.py",
+    "bytes": 25370,
+    "sha256": "1f08f5b70d0468b437f8d1cce2a25b87058280758765d0bdda27b31300a1f50d"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v109_codex_dudunsparce_safety/main.py",
+    "bytes": 23538,
+    "sha256": "b558f64e0d187f740ab74d7863f0aca5bee8ed3abbf35fc6af85528f11d4b703"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v10_mizotake_v2/main.py",
+    "bytes": 23542,
+    "sha256": "3addea59283d5038fa26bf510b5b52aaf729cf342d4daffca3b45fe375085522"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v112_codex_active_attach_safety/main.py",
+    "bytes": 23866,
+    "sha256": "39e5bb907f538ae846ab4024d4c689a408ed528c7b71c10be5f2d605ee695bfe"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v113_codex_setup_tension_safety/main.py",
+    "bytes": 25359,
+    "sha256": "26ff20e1aa3e870aac50c349afbb6086e6891b8804e59f02e5ef083bbd486318"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v114_codex_v107_safety_revert/main.py",
+    "bytes": 23604,
+    "sha256": "f6936c2893c61851b150e6913aa184c06207c8efe73da213a65413b63682c0b7"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v115_codex_runaway_timing_recovery/main.py",
+    "bytes": 24410,
+    "sha256": "47499cc6de561dafb3206c819e5440ffdb70c3190aea287d44d906e7999d01bc"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v116_codex_solo_runaway_guard/main.py",
+    "bytes": 22825,
+    "sha256": "318b6a5dca36d4d8ba2c5c9992a84edb9700c3d723b4ed819c842e6783eb6cb2"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v117_codex_lightning_water_breaker/main.py",
+    "bytes": 34292,
+    "sha256": "b6f0892838da73b055417bb819e1312c166f816e53d6f595aab5774e3e986680"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v118_codex_hammer_dunsparce_safety/main.py",
+    "bytes": 21784,
+    "sha256": "982cdf9cc26614c9926ae29ca03707127dd24eda60ea32c522184ee02f46d653"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v119_grok_dunsparce_safety/main.py",
+    "bytes": 23051,
+    "sha256": "faa49f7afacaecd8444f013d6c0d779f4d5d05300f6ea4ef71c6703d05645c78"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v11_mizotake_v4/main.py",
+    "bytes": 23542,
+    "sha256": "eaf179c8c95c78d1b482e31e21b20255b932991972075746fa9cbff7c81d6ad5"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v120_grok_continuous_eval_base/main.py",
+    "bytes": 23193,
+    "sha256": "8e58fcf962494a61cb2389766dc0cd9d74f45c59d833905517e39aa4ed652f91"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v121_grok_v116_public_teacher/main.py",
+    "bytes": 25109,
+    "sha256": "abf1d62ec8db1f1c31ad15a7852db6fb4101c6d030679aeb163f104b908799e1"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v122_grok_v116_public_mined/main.py",
+    "bytes": 25565,
+    "sha256": "f0f11b3d75bc6a62f6a061326a06dd4ea41ea8149f7f2cc20866471341e70124"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v123_grok_v116_public_teacher_fresh/main.py",
+    "bytes": 25979,
+    "sha256": "a5e6a37ee055b2d0322d54352a0fb41cb478776125b0c53680cb905bcf381879"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v124_codex_strict_dudun_guard/main.py",
+    "bytes": 23591,
+    "sha256": "0cc1435d9b4708c2680f5582795e6204fc3d894b015ce8396d226089f83c6f7a"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v125_codex_endgame_deck_guard/main.py",
+    "bytes": 26748,
+    "sha256": "00525d4b449ded83a042ef4b888fdb3dfe7da3b5dcff996817d59c1b23f30e7e"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v126_codex_setup_aware_attach/main.py",
+    "bytes": 27184,
+    "sha256": "f4689e41b250c7072d085aa0082732ccb2b9b9c4e87c5361ee9959d75f20af1e"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v127_codex_setup_pivot_guard/main.py",
+    "bytes": 27077,
+    "sha256": "d6db6a9c4a7583d16bf78ccf5bee273fa33a701735af3d400e2d2ba3b01e6148"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v128_codex_setup_evolve_attach_guard/main.py",
+    "bytes": 28281,
+    "sha256": "cd6d2e4b2d099fe235589d88b8627078c789f40dda3135b4dbcafe823de783a3"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v129_codex_archaludon_cinderace_axis/main.py",
+    "bytes": 41118,
+    "sha256": "d8bd91d9e68f93f4af58f077286104d9cf413a7f309709345719d847b30e8ceb"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v12_mm1989_v2/main.py",
+    "bytes": 23542,
+    "sha256": "3addea59283d5038fa26bf510b5b52aaf729cf342d4daffca3b45fe375085522"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v130_codex_arch_lucario_boss_prize/main.py",
+    "bytes": 41500,
+    "sha256": "14dcb80b8584d2b7eca61a2ca1004ea422fe2bbe62c526ff681dab16a0268809"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v131_codex_arch_setup_evolve_guard/main.py",
+    "bytes": 42559,
+    "sha256": "ac609e456995d5f7a35a0f6937c082891787bdb3efe6880465eb96c01d378bc3"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v132_codex_arch_setup_bench_guard/main.py",
+    "bytes": 41812,
+    "sha256": "d8503ed09e95910d9a8064614ce5c95181c85f385ee015bbf129cbcd07821fa5"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v133_codex_arch_pokegear_discipline/main.py",
+    "bytes": 43891,
+    "sha256": "50ffc4d85e3602620f25d709285a52d09f8ceaeef4c51d9b3d74cd860eae8e3a"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v134_codex_arch_layer_guard/main.py",
+    "bytes": 41442,
+    "sha256": "4197627a731ed4226a0cfd93692808549e016745a569855207d8d86f8a8a9a5d"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v135_codex_arch_cinderace_recovery/main.py",
+    "bytes": 42317,
+    "sha256": "8890605659f19264d04c18137c8fb4d4d8834e10ad7ce421fdb7801867d9366d"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v136_codex_arch_alakazam_pressure/main.py",
+    "bytes": 44717,
+    "sha256": "1c3431457bbe37d73e325f64598538d039d057b0bd92c58ebd6726a19ab03b85"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v137_codex_arch_alakazam_pokegear_safe/main.py",
+    "bytes": 45188,
+    "sha256": "2252a1372e44e6377183e0b3cfa5064eba2e32e1c2bfc75eede477855e6d453b"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v138_codex_arch_alakazam_relicanth_guard/main.py",
+    "bytes": 45292,
+    "sha256": "dd5e0e24f341afbc411bff8a3cbca0b7c1e1d7fa7a29a1cbe347056efcb902b8"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v139_codex_arch_icecream_tempo_guard/main.py",
+    "bytes": 42570,
+    "sha256": "b466cc70ce1076de3e74134b6ec879e7a872a538868e1e16f06cb7628e5d1c12"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v13_brian_v2/main.py",
+    "bytes": 23542,
+    "sha256": "3addea59283d5038fa26bf510b5b52aaf729cf342d4daffca3b45fe375085522"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v140_codex_arch_strict_icecream_guard/main.py",
+    "bytes": 42622,
+    "sha256": "5c280af1ba3eb7bae6d9888c5e65f03ee1d3eece3b5bdee74c4430626c29110c"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v141_codex_arch_healthy_icecream_guard/main.py",
+    "bytes": 42790,
+    "sha256": "144caf8a8c029587c9fc134aa823e26fff02128fa53f70649c6fd3fc2551429b"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v142_codex_arch_xerosic_pressure/main.py",
+    "bytes": 42467,
+    "sha256": "6487e588dcb99c76ecf505fb01ca0271e0f93c0ffb630dd3544da62a6319bf07"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v143_codex_arch_shumpei_tempo_probe/main.py",
+    "bytes": 43877,
+    "sha256": "76a167b8d6642bfdfbb119ad2c1f2840c4dbff35c21d4ead23a0710bf05e6736"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v144_codex_arch_active_metal_probe/main.py",
+    "bytes": 43010,
+    "sha256": "5645cb09cba7e44d55d57454a43d5ff6cfecefe5b9f86975f1f9d539bbb6d3c1"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v145_codex_arch_active_metal_only_probe/main.py",
+    "bytes": 42523,
+    "sha256": "0b07b4e95c776d741a14c228738523a2cef7cc108ceb792900161e857cfaa32c"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v146_codex_arch_pressure_metal_probe/main.py",
+    "bytes": 42498,
+    "sha256": "a1307d097cd806cbce51cd1e97a2b9d3596e8edcd26a80d1cfbc9454d6cecf05"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v147_codex_arch_nonlucario_metal_probe/main.py",
+    "bytes": 42645,
+    "sha256": "a23038f5d5cbb7d8ac3b713cd5a7e7ed5ea9ec390db8436ae73d6d85e371dd05"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v148_codex_grimmsnarl_search/main.py",
+    "bytes": 26653,
+    "sha256": "a0b3f34a207c1cfe716feb4cab8c639e2ba195ad3d60f05224823a8c13c25dc7"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v149_codex_psychic_ml/main.py",
+    "bytes": 34331,
+    "sha256": "5abfce279ac2429338596af1de9c457fd8daf27d485e25b8a9dc625979415175"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v14_strayuru_v2/main.py",
+    "bytes": 23542,
+    "sha256": "3addea59283d5038fa26bf510b5b52aaf729cf342d4daffca3b45fe375085522"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v150_codex_grimmsnarl_neural/main.py",
+    "bytes": 41633,
+    "sha256": "82dc8a5bc095eb6016ab26e55e8ad8f5338d80eaca343ca88abf2cedb03aaece"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v150_codex_psychic_aidy_timing_probe/main.py",
+    "bytes": 35541,
+    "sha256": "54cb28393c9533a8fbf2eefbcd235f74af3561cf575a8553d37056ab77fdf50f"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v151_codex_arch_search_native/main.py",
+    "bytes": 13034,
+    "sha256": "248cc9386160be74eea6b9e913669a28042a61fd7c854d25c9c658716535db75"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v151_codex_arch_search_native/prior_v141.py",
+    "bytes": 42790,
+    "sha256": "144caf8a8c029587c9fc134aa823e26fff02128fa53f70649c6fd3fc2551429b"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v151_codex_psychic_setup_survival_probe/main.py",
+    "bytes": 36210,
+    "sha256": "af723c486005026fc9653198aef7d33bee0c6a6eda4d6d975e5772f6caf126a2"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v152_codex_psychic_dunsparce_safety_baseline/main.py",
+    "bytes": 35165,
+    "sha256": "28ef924816e584e5434526dadc435ecce1dbb35e542a9310c16d4c7ec03c516d"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v152_codex_psychic_search/main.py",
+    "bytes": 13236,
+    "sha256": "3b131e54a9a0f1e29c1075b54e142f86980c0852288e48df62617bed324ecd01"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v152_codex_psychic_search/prior_psy.py",
+    "bytes": 33444,
+    "sha256": "afc95286df761723d0d588aa2f9de1e2a9c8a2a6931ab959e6a9f90b3ced662f"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v153_codex_arch_search_tempo/main.py",
+    "bytes": 14572,
+    "sha256": "04f59fff4961952c74f063a336c99b2f8fcaf1699c8b558f6f1b54f223444cd4"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v153_codex_arch_search_tempo/prior_v141.py",
+    "bytes": 42790,
+    "sha256": "144caf8a8c029587c9fc134aa823e26fff02128fa53f70649c6fd3fc2551429b"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v153_codex_psychic_soft_setup_probe/main.py",
+    "bytes": 35827,
+    "sha256": "73b51684a951d0701cf29db686867378ed510cdfee9d7ab00e9ed8db66929fb2"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v154_codex_arch_search_antidenial/main.py",
+    "bytes": 16209,
+    "sha256": "456c5cbe6144a45c7d96c2c583e409dc6054042fe99ff7c47cda085b423744e5"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v154_codex_arch_search_antidenial/prior_v141.py",
+    "bytes": 42790,
+    "sha256": "144caf8a8c029587c9fc134aa823e26fff02128fa53f70649c6fd3fc2551429b"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v155_codex_alakazam_teacher_search/main.py",
+    "bytes": 28266,
+    "sha256": "8a1800794d3f06d73ef542f1eae088476fe46efc87dc037e191fffc8f6e8f8eb"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v155_codex_alakazam_teacher_search/prior_psy.py",
+    "bytes": 20472,
+    "sha256": "5a0e181290ca30515bc32d71ac8d2a526377b1daf2f5b13514f69712203ffeee"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v156_codex_alakazam_lethal_only/main.py",
+    "bytes": 28520,
+    "sha256": "b1ae09c8e19680d7ca48d39ec1b1ade568c1b82bf4535645196998cc001813fb"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v156_codex_alakazam_lethal_only/prior_psy.py",
+    "bytes": 20472,
+    "sha256": "5a0e181290ca30515bc32d71ac8d2a526377b1daf2f5b13514f69712203ffeee"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v157_codex_v75_newengine_control/main.py",
+    "bytes": 20602,
+    "sha256": "27d9aba1e18c290dc7c40e58c666d266931a781653b8f5128ec3fac6e600cf1d"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v158_codex_grimm_teacher_lethal/main.py",
+    "bytes": 27799,
+    "sha256": "dc3e32e8be232e7b702842b3a5cc996eef26a26ec49d5705313cf33f57e1a90c"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v158_codex_grimm_teacher_lethal/prior_grm.py",
+    "bytes": 26653,
+    "sha256": "a0b3f34a207c1cfe716feb4cab8c639e2ba195ad3d60f05224823a8c13c25dc7"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v159_codex_solo_runaway_safety_guard/main.py",
+    "bytes": 23598,
+    "sha256": "3feb329210f821c9e24daee44637fe1b56b916cc485f888932ea4e55564fa247"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v15_zakopuro_v2/main.py",
+    "bytes": 23542,
+    "sha256": "3addea59283d5038fa26bf510b5b52aaf729cf342d4daffca3b45fe375085522"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v160_codex_nightmine_shaymin_axis/main.py",
+    "bytes": 24786,
+    "sha256": "7cd3f841234ac3bb2f0653c6ec442a879655f90605913b599f7d433fe19b8926"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v161_codex_rank1_tempo_pilot/main.py",
+    "bytes": 27313,
+    "sha256": "6be85a04bdbe7ebdb7029ec9695174c45de9da098e31cfa5fec0e1f31fa5fedf"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v162_codex_nightmine_adversarial_search/main.py",
+    "bytes": 17236,
+    "sha256": "bd11ff87345280bfcf007cf4ea180c4d3ab296363bafcda231d9397f36a6cce5"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v162_codex_nightmine_adversarial_search/prior_rank1.py",
+    "bytes": 27313,
+    "sha256": "6be85a04bdbe7ebdb7029ec9695174c45de9da098e31cfa5fec0e1f31fa5fedf"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v162_codex_nightmine_adversarial_search/search_core.py",
+    "bytes": 8952,
+    "sha256": "0dcdc5666c2557730c6e402b00912524a9470bc22cfd9c270e136bf906b99dd0"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v16_takuyay_v2/main.py",
+    "bytes": 23542,
+    "sha256": "3addea59283d5038fa26bf510b5b52aaf729cf342d4daffca3b45fe375085522"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v17_strayuru_v4/main.py",
+    "bytes": 23542,
+    "sha256": "eaf179c8c95c78d1b482e31e21b20255b932991972075746fa9cbff7c81d6ad5"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v18_strayuru_hammerfast/main.py",
+    "bytes": 23661,
+    "sha256": "75167282c3bd0e2ee78367dded96cb4f81673d24553fe2e9397e09698c971449"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v19_hammer_early/main.py",
+    "bytes": 23661,
+    "sha256": "ccf9c77d7a0b4410ce53900a3ca91e61e8262a751185f1b5ebb44c6394d64930"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v2/main.py",
+    "bytes": 23542,
+    "sha256": "3addea59283d5038fa26bf510b5b52aaf729cf342d4daffca3b45fe375085522"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v20_hammer_target/main.py",
+    "bytes": 25234,
+    "sha256": "a5911f6834c627d9acb287f079772cc6006a3034270c0d2d02ad3ac16b04462f"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v21_ethan_crustle/main.py",
+    "bytes": 25234,
+    "sha256": "a5911f6834c627d9acb287f079772cc6006a3034270c0d2d02ad3ac16b04462f"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v22_kenn_ethan_crustle/main.py",
+    "bytes": 25234,
+    "sha256": "a5911f6834c627d9acb287f079772cc6006a3034270c0d2d02ad3ac16b04462f"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v23_kenn_boss4/main.py",
+    "bytes": 25234,
+    "sha256": "a5911f6834c627d9acb287f079772cc6006a3034270c0d2d02ad3ac16b04462f"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v24_kenn_jumbo2/main.py",
+    "bytes": 25234,
+    "sha256": "a5911f6834c627d9acb287f079772cc6006a3034270c0d2d02ad3ac16b04462f"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v25_cynda_active/main.py",
+    "bytes": 25150,
+    "sha256": "a6613d481ae979fe3f7a58ae34d69fc7429469af6ccbbb718f4ab799454b5d1c"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v26_dwebble_active/main.py",
+    "bytes": 25150,
+    "sha256": "81c71589a534dac089f5065a50cd6595509f46402922e9f98c1e5836fc3f3eb2"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v27_poffin5/main.py",
+    "bytes": 25234,
+    "sha256": "570cf7213924e40c2c8cdaee75794c9c8742b38ab91d507df589e6c86f8ce78b"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v28_poffin3/main.py",
+    "bytes": 25234,
+    "sha256": "ba6b409d15273943500f2d288b4a499885fc7abd761d4e414d2b2d2262ded839"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v29_iono_lightning/main.py",
+    "bytes": 25234,
+    "sha256": "570cf7213924e40c2c8cdaee75794c9c8742b38ab91d507df589e6c86f8ce78b"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v30_iono_policy/main.py",
+    "bytes": 31987,
+    "sha256": "08396f2a3745765afad21ed793611366e2e5ddeca7640a3cfddc61a591eb6c00"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v31_kenn_carmine2/main.py",
+    "bytes": 25234,
+    "sha256": "570cf7213924e40c2c8cdaee75794c9c8742b38ab91d507df589e6c86f8ce78b"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v32_kenn_carmine_pad/main.py",
+    "bytes": 25234,
+    "sha256": "570cf7213924e40c2c8cdaee75794c9c8742b38ab91d507df589e6c86f8ce78b"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v33_poffin5_second/main.py",
+    "bytes": 25370,
+    "sha256": "f6a62e62e9c54d1bbd2134e67cd80c635fdbae97809ee13f57331616e086e559"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v34_rank1_second/main.py",
+    "bytes": 25370,
+    "sha256": "c4a01e3d705d8f57d0a49ba806bbea7195ac7ff4329434bb5577d0e691ef075d"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v35_poffin5_patient/main.py",
+    "bytes": 25233,
+    "sha256": "4b1850e0e15e38346f332bc6660805fd65176d6175573f9879066c620979c2ab"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v36_patient_second/main.py",
+    "bytes": 25369,
+    "sha256": "8faab12be7567ee6a4170b17b2f54762ee3adba7e1a17abaf64e90a92420b9f0"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v37_iono_replay_tuned/main.py",
+    "bytes": 32806,
+    "sha256": "66fdadfe5f339a5dd1cbf11cc6220496f0ed1c3deffdbf060a7a69328df4df49"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v38_iono_replay_lite/main.py",
+    "bytes": 32225,
+    "sha256": "f5ad578ad7053a5bbad34cdc0e720bd7b9fa510e02c0b0a494b150451160b543"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v39_alakazam_denpa/main.py",
+    "bytes": 17326,
+    "sha256": "5aab66f0a2454aa59af02a5f1a590f37e34c218eaa7c6bd826031e43e114f9ee"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v4/main.py",
+    "bytes": 23542,
+    "sha256": "eaf179c8c95c78d1b482e31e21b20255b932991972075746fa9cbff7c81d6ad5"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v40_alakazam_denpa_seq/main.py",
+    "bytes": 17466,
+    "sha256": "b460b0cf68a907ee7fcf5f28ffc4d09ed5deb84f5a8850e066b68bea9ee79c38"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v41_manan_crustle_cage/main.py",
+    "bytes": 23542,
+    "sha256": "eaf179c8c95c78d1b482e31e21b20255b932991972075746fa9cbff7c81d6ad5"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v42_hibi_festival/main.py",
+    "bytes": 18115,
+    "sha256": "ca0c4f11f7aa287e658bfb00a58504952053040d3c236a2ef82b246bfbf72472"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v43_daitou_alakazam/main.py",
+    "bytes": 17617,
+    "sha256": "d2294863d470f605eefb2910b96e8ea2342a5134d11e0cbfe2660e6a463af0a5"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v44_hibi_festival_seq/main.py",
+    "bytes": 19533,
+    "sha256": "4cde6f508d9bf236da7269ee097a40c59cf20573b291149db806ca8bdd3ce019"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v45_alakazam_hammer/main.py",
+    "bytes": 19254,
+    "sha256": "d6f5913c5c18a6f6c41ecb729f2b6d69546be97cbe41a8e18da03c28b3aa9c26"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v46_alakazam_dunsparce/main.py",
+    "bytes": 17524,
+    "sha256": "d3302b5157a6857ea132e1b05c5b7cd04dcdd11f97db878418e132ea304e3b43"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v47_osaka_alakazam/main.py",
+    "bytes": 17771,
+    "sha256": "db3f4420ff3c9d4fb7fa50336f486be03d4da5fe4efbf0eabb7df4324387f756"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v48_alakazam_hammer_mid/main.py",
+    "bytes": 19526,
+    "sha256": "b46d237a62261f65b9dd8e177dc6ef6ac86f511e9a84332f9a0683384ffa8bce"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v49_alakazam_single_bench/main.py",
+    "bytes": 19721,
+    "sha256": "2637aaf2f18b88630ed29f839e7cd4c887b47ec3e6f0a9f32516882cb77143e0"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v5/main.py",
+    "bytes": 23542,
+    "sha256": "eaf179c8c95c78d1b482e31e21b20255b932991972075746fa9cbff7c81d6ad5"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v50_replay_meta_policy/main.py",
+    "bytes": 113632,
+    "sha256": "84ca134cca77c1954f6fdff0de3daf1198dca62b3dceb7bdc5637277fec71d5e"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v51_alakazam_hammer_conditional/main.py",
+    "bytes": 20170,
+    "sha256": "229d08d19ad29f2cc3827925f92c14a6119b79d866518f4c78e1634580201e40"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v52_alakazam_hammer_mirror_mid/main.py",
+    "bytes": 20181,
+    "sha256": "56afa04765e77dad298d7ff26e08363d8502e7e4782a6c4501e7555667cc29ea"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v53_alakazam_hammer_target/main.py",
+    "bytes": 18591,
+    "sha256": "41917187bf2d3dde1fb1780163a376be3970f8d807b03f9f42136d7cf083b502"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v54_alakazam_seq_soft/main.py",
+    "bytes": 17466,
+    "sha256": "7952d31d15853ee38b31540f9ff7f66557f64337e069154ec608b5944e1e7052"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v55_tubotu_alakazam_hammer/main.py",
+    "bytes": 19418,
+    "sha256": "8249a66055eafea1ff46dba030792ee566809cb4458f8435a02e702299398e60"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v56_alakazam_hammer_seq_soft/main.py",
+    "bytes": 19394,
+    "sha256": "734d30403f52b2519fa658f4b747f39799c6964edeed2adfbc1abba6f3fc8e29"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v57_alakazam_hammer_mid_seq_soft/main.py",
+    "bytes": 19666,
+    "sha256": "694b16b427df5f033ca7e3c25bdcd3d6b3c5fa7c9f71ab8ed24581e17d13825a"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v58_donguk_nighttime/main.py",
+    "bytes": 18291,
+    "sha256": "4ff12958de0a9456cb9801dc17dd60694782d7b8346930eb274330e4d6d7aeb3"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v59_alakazam_hammer_target_soft/main.py",
+    "bytes": 19254,
+    "sha256": "d60cefd4674346c9b3a96630cc5c5beda7d8edd5bf8abb29c095c585176c287a"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v6/main.py",
+    "bytes": 24495,
+    "sha256": "c86425bfd717135596ae190d56e72cfe2cd06e673a2f101f35843396e7d6fa5f"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v60_alakazam_hammer_nighttime_mid/main.py",
+    "bytes": 21043,
+    "sha256": "30c67664ae117f8133e09ce3f6dbc60d25fa9297b68f5734cd5844d53fdaf683"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v61_kadoraba_nighttime_hammer/main.py",
+    "bytes": 19430,
+    "sha256": "cb1c9be0026ff75bb16ee1e722100e281479e870d65f6a9458c74f857e58c7d9"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v62_karacoro_mega_kangaskhan/main.py",
+    "bytes": 74607,
+    "sha256": "853c037168eab66eef50ac41092cb1d0c325a72aa5fd252a068414d9e367e8a4"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v63_iono_lightning_patient/main.py",
+    "bytes": 34040,
+    "sha256": "0942f4c64b5fbf4a5e980457ecb38c7d004bae01d20d11d9a077f1a811923a6d"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v64_noikaret_fighting_toolbox/main.py",
+    "bytes": 83094,
+    "sha256": "cb57761e125dbdeb6c8f004aa03a0ced2e581f240917ae3f2ac82c3dcb9d7729"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v65_alakazam_denpa_target/main.py",
+    "bytes": 18591,
+    "sha256": "41917187bf2d3dde1fb1780163a376be3970f8d807b03f9f42136d7cf083b502"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v65_alakazam_patient_draw/main.py",
+    "bytes": 19525,
+    "sha256": "49bf2376fdc873d76164e7df2d89c647e567842b0fec1db91cecbaa647a912e4"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v66_alakazam_mid_attach/main.py",
+    "bytes": 19526,
+    "sha256": "b3c0c931478332d6ab86b24810dea302cb15110a28ac0d79c8b22d6bf178614d"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v67_mega_lucario_praxel/main.py",
+    "bytes": 89506,
+    "sha256": "8f55bc7979a427e554ffe7d25ff7ce84c7fa91c303dcf468ba9b815ec33f6d72"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v68_alakazam_hammer_mid_drawsoft/main.py",
+    "bytes": 19666,
+    "sha256": "64f32f2d5aba5e047d8e1072f02261fc3497508e863e6d4efe4eee29dea9cdbe"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v69_alakazam_hammer_mid_hilda735/main.py",
+    "bytes": 19526,
+    "sha256": "904bccd514c97d821a9cf904c3343d277671c1a0af25bfe1adf6c803e3aec8c6"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v70_mega_lucario_meta_current/main.py",
+    "bytes": 92161,
+    "sha256": "1f2f6d2d34bdd3011bbbdd29f7e35949a3e353849be341a12b67843558dd9036"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v71_mega_lucario_no_caps/main.py",
+    "bytes": 91238,
+    "sha256": "9fd348f26408755f188c3ac1d54e7d850a19ede878fcceb00168566774da99a8"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v72_hiroingk_hammer/main.py",
+    "bytes": 19414,
+    "sha256": "70349390718d4d3b4958bc4fd7e2e61be750aa9cd9f3be5bacf986336218bf1b"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v73_aitoai_hammer/main.py",
+    "bytes": 19414,
+    "sha256": "70349390718d4d3b4958bc4fd7e2e61be750aa9cd9f3be5bacf986336218bf1b"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v74_hiroingk_hammer_v45policy/main.py",
+    "bytes": 19254,
+    "sha256": "d6f5913c5c18a6f6c41ecb729f2b6d69546be97cbe41a8e18da03c28b3aa9c26"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v75_hiroingk_hammer_v57policy/main.py",
+    "bytes": 20096,
+    "sha256": "9e481bfc1e56cc4d42f7979cb8fd099ae3fbad61a11a4d96875ca5a99b72f7cc"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v77_tubotu_plain_alakazam_v75policy/main.py",
+    "bytes": 19666,
+    "sha256": "694b16b427df5f033ca7e3c25bdcd3d6b3c5fa7c9f71ab8ed24581e17d13825a"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v78_grimmsnarl_froslass_v50policy/main.py",
+    "bytes": 113632,
+    "sha256": "84ca134cca77c1954f6fdff0de3daf1198dca62b3dceb7bdc5637277fec71d5e"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v79_mega_absol_box_v50policy/main.py",
+    "bytes": 113632,
+    "sha256": "84ca134cca77c1954f6fdff0de3daf1198dca62b3dceb7bdc5637277fec71d5e"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v7_three_line/main.py",
+    "bytes": 23566,
+    "sha256": "15d3e6aa6555b9b294bd8d2e74eb687440cb83f187c6614c5d9778633c5b478a"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v80_rocket_mewtwo_spidops_v50policy/main.py",
+    "bytes": 113632,
+    "sha256": "84ca134cca77c1954f6fdff0de3daf1198dca62b3dceb7bdc5637277fec71d5e"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v81_hiroingk_hammer_discipline/main.py",
+    "bytes": 20195,
+    "sha256": "0e041cef619142742205737234d151510923e6ec9f42962605539d484c153d26"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v82_hiroingk_hammer_dunsparce_fix/main.py",
+    "bytes": 20086,
+    "sha256": "72116a056cbf0a62675e58369a8de9ee6d1f097087111a4704dfbf268a609b4a"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v83_hiroingk_hammer_disruptfix/main.py",
+    "bytes": 20122,
+    "sha256": "f42cf24ebee00f0bed39beade783dd968e80cbad00c1fb43cc46815e5120dad8"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v84_hiroingk_hammer_mirror_discipline/main.py",
+    "bytes": 20937,
+    "sha256": "ebad59b596ee44b941b392b8cb90fe6098adb654beac8236363dd26d57393f42"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v85_hiroingk_hammer_benchcap/main.py",
+    "bytes": 20733,
+    "sha256": "4560a8f037cca8e846021e490c587be1bf3c7dfafbb6e1bdf79529d7a7915227"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v86_hiroingk_hammer_mirror_hammerprio/main.py",
+    "bytes": 20351,
+    "sha256": "fd8e1e29dacc5417455d3439c0a26538e46d5cd0c612caceee37a2a197daaf2e"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v87_hiroingk_hammer_recoveryprio/main.py",
+    "bytes": 21697,
+    "sha256": "2a4d172fb88463af3447dd88d87826063e04a25c96f5a849b29c6aa9898043e7"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v88_hiroingk_hammer_mirror_stretcher/main.py",
+    "bytes": 21111,
+    "sha256": "0b70938bdcc98d36ab837821cf3fe011168012bc88fa132007565c597e2fa5cb"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v89_hiroingk_hammer_bosscase/main.py",
+    "bytes": 19987,
+    "sha256": "dcd278e93cedc8c4674ef571aa692c7a2e2c077757aadcb6d0715912f2c49eda"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v8_dynamic_backup/main.py",
+    "bytes": 23881,
+    "sha256": "cba6a324d7ad4ee19469f667bea7b32ae33ee786d042e304d1ad9d5a9a1bd668"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v90_hiroingk_hammer_setup_restraint/main.py",
+    "bytes": 20136,
+    "sha256": "b3aaf55bbc68b55bdf652d15d944894f34e4540d9a19b77cfe6167a9eadc1632"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v91_hiroingk_hammer_setup_pass/main.py",
+    "bytes": 20185,
+    "sha256": "9d2eeec1fbcc5bad07aa6092609e1fb639dd0de9a9180262b4d134596270179c"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v91_psychic_tempo_attach/main.py",
+    "bytes": 21043,
+    "sha256": "4dc714f7b58e46ebcf241e5f0f2370c1919e510b442bd2abef3537f50cb193d9"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v92_hiroingk_hammer_setup_only_one/main.py",
+    "bytes": 19965,
+    "sha256": "443cc81c5e4988f7f45a889f7e67f4a1c5e739a1649525328c8ae7bb2992187e"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v92_psychic_measured_tempo/main.py",
+    "bytes": 20611,
+    "sha256": "b058bd6fdd71685533062a99185a2c6ba685a19aa9649f4f89b5e406053cb416"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v93_hiroingk_hammer_late_bench_only/main.py",
+    "bytes": 20058,
+    "sha256": "448906fdef7ee9d4c8d418c3fe79fda8a011bee10a8fd309ceb4935bc1828f7a"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v93_psychic_control_dunsparce_fixed/main.py",
+    "bytes": 20130,
+    "sha256": "79faebc141fdb85c7bb1fc81e82c0024ea2adc3eab1302fb65c93a1487dee34b"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v94_hiroingk_hammer_dudunsparce_defer/main.py",
+    "bytes": 22146,
+    "sha256": "e14102ec18a52801713e13bd9a98391217b1464042139bb4b3a1206b186a0cf6"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v95_hiroingk_hammer_dudunsparce_defer_strict/main.py",
+    "bytes": 22204,
+    "sha256": "44742a03476a4aacac44755b253f7f40f87d888894d4554a9100631fbd965273"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v96_hiroingk_hammer_dudunsparce_defer_noattack/main.py",
+    "bytes": 22119,
+    "sha256": "620915c2ba2ce89bae8cdd3f5ba4d1c5968e2984a0b79a2c89dd62c2f126a65c"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v97_hiroingk_hammer_gap_attach_activation/main.py",
+    "bytes": 24754,
+    "sha256": "ca64f0c5074d60f6982377cb4bc9e27f7d10109a30bcf4177af952b44020b0aa"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v98_hiroingk_hammer_gap_attach_mild/main.py",
+    "bytes": 24486,
+    "sha256": "2d6caf1b74eba545dc944a26ab8749dbaef1e0b773db2aee6161d60f9fc99740"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v99_hiroingk_hammer_gap_attach_scoreonly/main.py",
+    "bytes": 23749,
+    "sha256": "08aedb08b939414c373fb901b365bd0efdf77c25190abdb83150428a03ed8c05"
+  },
+  {
+    "path": "pokemoncard_kaggle/agents/v9_cap2_spiky/main.py",
+    "bytes": 24495,
+    "sha256": "225f8f33c16f3a3359a40e28a776ab3db27a915d6b2857252b02c8362f51b197"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/__init__.py",
+    "bytes": 392,
+    "sha256": "be8ec4e0e2c539e0d1dbff716f9a897cc51d2b8832ee893544386c79944ab60e"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/arena.py",
+    "bytes": 4499,
+    "sha256": "535c19c64e2bf9b282aedcfb2fc04ed535ba9c9e2a8c26bbc23d5c245233bc20"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/augmentation.py",
+    "bytes": 6773,
+    "sha256": "31e4ccdb37a4950f123f764ac90fcd152e12659ecdc6a6b1ad9a78dc11366b86"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/branch_outcome.py",
+    "bytes": 40508,
+    "sha256": "eeafd4c81e96470d12e6b47cc77ccf7abb8f4912395738b3c3b9c13067b4d0cb"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/branch_support_v2.py",
+    "bytes": 41907,
+    "sha256": "f9ec7491f59d29bd2393ae74ffa8e41ec083416994f6cf5c2e17496d37595488"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/calibration.py",
+    "bytes": 6137,
+    "sha256": "6c7ec92468f76f5044c3fb623a3dbfaf241fd64ee19e589fcc1425d2cdc72173"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/candidate_outcome.py",
+    "bytes": 7926,
+    "sha256": "539879d17db066060b8a70a230f61ed41e0b015e0a6d2afaf3dca9bc87f179a5"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/catalog_semantics.py",
+    "bytes": 27469,
+    "sha256": "c7ee4ba2f4255d0b02a9b3145cb352ef0e8e2bc01a5093567db9dc473d069c9f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/cohort.py",
+    "bytes": 12039,
+    "sha256": "782dccb82a85d84b51572b36241031a4864d7fdc69ad5b97cb96e8cb85a649ab"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/expectiminimax.py",
+    "bytes": 26372,
+    "sha256": "79024e88273ad7eead7f87fd3abda19d6c7478d07644646402e0955631cff68f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/gateway.py",
+    "bytes": 6044,
+    "sha256": "37aa88c841f086843c5629914ac331792ec20451eabaa1972f6f243fc6387033"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/locks/branch_bridge_v2_stage_a_requirements.in",
+    "bytes": 47,
+    "sha256": "13a45e3554e8dcbf9c2166cb1796280c78ac972a4b085e7dcdf67da08b7dbc85"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/meta.py",
+    "bytes": 2672,
+    "sha256": "ad73f78fb479df3d5a9eae5c42ab39e8b9f4f63b80e89553f8779074762c7350"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/native_adapter.py",
+    "bytes": 11379,
+    "sha256": "db0c0c7bdd52e30c8c361f6ad01feb4051d25fc02283eac93d41d254c000fc4c"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/native_tree.py",
+    "bytes": 12753,
+    "sha256": "2a265d1b02467ebcf9734daaefab584c09439ef6cea04cb016df37e6407f72c6"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/option_forest.py",
+    "bytes": 5642,
+    "sha256": "89ae9fbb5e372656d387522d07d94be757e3276d31c7cbb409a373716fc9390e"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/package.py",
+    "bytes": 4444,
+    "sha256": "0d361042aaabade151d0a0a4fa961d68615088cd8f635120de7de43719262023"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/promotion.py",
+    "bytes": 3919,
+    "sha256": "df1656ff1dcd10bee27a6d435a17cd4f78d63dfb490048b5f28f0f6387f92704"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/prospective_shadow.py",
+    "bytes": 13759,
+    "sha256": "e7dda95f19d5e1ad1559822e5473a82a406ed4df47fbc0ddff0659c177d53db8"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/public_transfer.py",
+    "bytes": 14420,
+    "sha256": "cb4041ea4d05c9fa4f7410b42c0e97c0bc8e2bf19bd3783bf5ec43de403a362a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/replay_eval.py",
+    "bytes": 8463,
+    "sha256": "f93c861627d7921c40a696aa5a5180196c4ce81d73f802951fa4aefc215ea18f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/safety_burnin.py",
+    "bytes": 6103,
+    "sha256": "8355eec946a36e138f4913b60f2cccf17b90dad575a717045d373a0340cf6c15"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/schemas.py",
+    "bytes": 2258,
+    "sha256": "b89c0e720d2b4669d9e66262b76068d6dcb8639f9e5f018afc2038c5231ca7fb"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/search_core.py",
+    "bytes": 8952,
+    "sha256": "0dcdc5666c2557730c6e402b00912524a9470bc22cfd9c270e136bf906b99dd0"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/seeded_arena.py",
+    "bytes": 6781,
+    "sha256": "60252b270f72742d688d02c21fec7f774ce5e0c13d894d56387d2aa14294b570"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/shadow_chronology.py",
+    "bytes": 6627,
+    "sha256": "2e629385456df9f7f5f8e67a856c373f8dc0744e7b82929af6325c06055f11f9"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/stage_guard.py",
+    "bytes": 7081,
+    "sha256": "2680a9fd071dc4799e048e73e88ac703bd5714645dd7b9ec98c6bc6c0c89016a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/statistics.py",
+    "bytes": 4972,
+    "sha256": "1b31ce227c50d14184475845df4c49a51a1441866f147bd6f9a7ef6d197c4a7a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/surrogate.py",
+    "bytes": 11625,
+    "sha256": "04a72f3bd8bd6072f4519f11103f232a9d22cdda44723e2bb0ed0e3685319cfd"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/transfer_validation.py",
+    "bytes": 18208,
+    "sha256": "aec0d07c1354dc5a84434a4a4f039e00413d112b095e1e50981cc579d6a61985"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/value_head.py",
+    "bytes": 5249,
+    "sha256": "ff555a33741c50e7b09e0eb8a95c584e6bacf6534613043f5be76c13c06baf12"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v2/world_bank.py",
+    "bytes": 19854,
+    "sha256": "12536225a9befe24dff74cbf081c5de11f25f8a17a0c1718519f66293eec0554"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v3/__init__.py",
+    "bytes": 396,
+    "sha256": "ac9ef6fbdc947ce2bd9f367eb72aa2b91d723e949955fbf93ce5272c88c16768"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v3/engine_oracle.py",
+    "bytes": 29755,
+    "sha256": "8d2474674d1bd01ecf92f7fb8c3aca79e4999d56911d7bf501624900c2eb20df"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v3/episode_inventory.py",
+    "bytes": 11936,
+    "sha256": "bfcc11a5b4322798e701b2ec2633137219b2fd0708e628904051e807cef40709"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v3/evidence_log.py",
+    "bytes": 12164,
+    "sha256": "786d3db2ff557877d8fecd40715e75ba780eb38f1423bbac400f01f67fef088c"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v3/promotion.py",
+    "bytes": 36670,
+    "sha256": "b8ef5dfa2a32de27ef40e07dbdbefa77bf575b5db3257dec00ac86ba1da3e839"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4/__init__.py",
+    "bytes": 572,
+    "sha256": "9fd224b1f81cf13a7e70651199a0759f79560ca897f35f8ff1c2f7bb68744b3f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4/chronology.py",
+    "bytes": 8192,
+    "sha256": "d1aa42a2984db68dc7bb3cc26665ee729b751345861cbe8ac28d7d0298b1ca06"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4/design.py",
+    "bytes": 11567,
+    "sha256": "207f94dfce6e2b8e79844dd9ebe52fa07bf8616beb8ff1b112b98550bc7f92eb"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4/evidence.py",
+    "bytes": 10292,
+    "sha256": "37e11992e6b3409aabcd0125d3ed7ff340d165753204d794079141b7c5bece61"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4/lineage.py",
+    "bytes": 20656,
+    "sha256": "d13dd72e492514a45083a2b035332843c61c3a32b71d3750d35f84d60eb5364a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4/metrics.py",
+    "bytes": 28034,
+    "sha256": "f5b5d4d74a82e897cb662219a12a3669b22303967b1ee87475f77008423c1679"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4/predictor.py",
+    "bytes": 16186,
+    "sha256": "450ea3fbe083bc0e780d3f87ba90c4a4b570c1cbb6a98e0a23a367476c866380"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4/protocol.py",
+    "bytes": 16363,
+    "sha256": "39a35d020c04b1f5876826d38a6dbe5c51e637fc68c56a54d39c6ff7e2cb3680"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4/selector.py",
+    "bytes": 12366,
+    "sha256": "d5c11bc3640468f12a87768f2a73d48300233d44ae6e3c057137d6976309b229"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4/simulation.py",
+    "bytes": 11591,
+    "sha256": "8e744de8ef881debf8b5981efb012e2f46d466cec6d35d577ff0e386c317a561"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/__init__.py",
+    "bytes": 913,
+    "sha256": "0dfbe53515f7b3a1e3e523d70f23636c5e5843dd73b49d667266d118404e8800"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/authorization.py",
+    "bytes": 30021,
+    "sha256": "355799f9fcb911733f254830c43fc0a28e854124a8b5f1600931d6a6b80aebac"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/beacon.py",
+    "bytes": 21807,
+    "sha256": "1faddc74e93ffa225cf6a6c45bf385f72b28e0a6c0730cc5e09e6aa5ba83b804"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/chronology.py",
+    "bytes": 44651,
+    "sha256": "1849e524c531c766f1ec23bbb2091ff1027eae8264b9e7894c8f9314237e47c1"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/composer.py",
+    "bytes": 21303,
+    "sha256": "d20d166f45a0cedabb1de8ddd8c9e8044c6e234b21054966bff7e0bf1ca937b8"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/evidence_budget.py",
+    "bytes": 11989,
+    "sha256": "57ba687e51a20b5646ada53f4665652690504fe8653a0ba8f71db7b690969a0b"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/executor.py",
+    "bytes": 49396,
+    "sha256": "bf47113c416bbfa35f29d633805dce78e0437b844102f9aa4ae397db35a72fe6"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/kaggle_bytes_bridge.py",
+    "bytes": 4660,
+    "sha256": "6b429a7dec37eb321cf496b53f4f4412d38c241a3eb25d86b937c5f7d1c050e0"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/kaggle_evidence.py",
+    "bytes": 50911,
+    "sha256": "0e282670e333f2cf3e0368a61a073354d375df965cbb5294bdab8beb9d8dfe1e"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/prediction.py",
+    "bytes": 12543,
+    "sha256": "513f847c0d70d5c8ca7ab9bdf6de64a36414717d28e8c3986373309febf793ff"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/protocol.py",
+    "bytes": 25316,
+    "sha256": "6f65e20a5703efc76c2709243d84f529a1d34a21536b5b490f3c41b63769f34c"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/runtime.py",
+    "bytes": 8056,
+    "sha256": "a902b54bc3d292aab056b27595241583306f73bc6e44d6bc8141230b099dfd0a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/statistics.py",
+    "bytes": 18994,
+    "sha256": "c6427f9b5635891f93101b305f454b09dd69a8bcad49d85111ea4ea7ed20f484"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_1/timestamping.py",
+    "bytes": 7813,
+    "sha256": "68d852e71b99ae0f4934067fa456d379de94ad63898e439f0a8d476ceda2acc8"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/__init__.py",
+    "bytes": 6869,
+    "sha256": "f1d2cb4040da436dd97476ba6e181714bf70eb5dfbfd46f9f540b5cceca8f24a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/analysis_contract.py",
+    "bytes": 6672,
+    "sha256": "f133f7acd2b57e258358147706bed3d3f7c7e325908e03c2d5209a9134b354bd"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/arm_receipt.py",
+    "bytes": 23662,
+    "sha256": "7df8affb189bc770c53a77c858d33ba494ea64f0de63f83fc8605e1e59b0b606"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/campaign_composer.py",
+    "bytes": 72281,
+    "sha256": "db8dbeff2771571e565e43915bff1851ffadac8abd12d3e11e42b4871784521f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/campaign_journal.py",
+    "bytes": 87095,
+    "sha256": "3904a780fb9fe475ce2ee52d9e1a2aef0a439e798e3af8649af6f0ff4538dc87"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/campaign_preparation.py",
+    "bytes": 8263,
+    "sha256": "082a11cfdd39dc528273dd9a09405c2de7a3d9f2fee3f8ceaabf4ab73b9cb98f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/campaign_protocol.py",
+    "bytes": 49025,
+    "sha256": "3320327d0534c886d24ba9189e32397e66c5481a49b415db30f460decabbe037"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/campaign_runtime.py",
+    "bytes": 18721,
+    "sha256": "2801c263ab12686239d8a37a7ecff455a70497e7e085913b2f253b5e2a6a760c"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/candidate_binding.py",
+    "bytes": 18465,
+    "sha256": "b4cd9da726b3f0209fd28a6d30dd8a50d64cfcc526252ab18c250f5c24b1a136"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/container_protocol.py",
+    "bytes": 16764,
+    "sha256": "40c5781632570aec67fb8916992b7d615c6d4e90eafc495d688f68eaba1826ff"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/contrast_protocol.py",
+    "bytes": 10331,
+    "sha256": "134e69eb0067f6dff6dc5b19295cade8f9e57250d0f6d2e0da3730e6c5cad9f3"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/execution_plan.py",
+    "bytes": 35918,
+    "sha256": "679277958b9cda2f9b5eb32a372bcacec1385beaaec4347e51ddc8353b0bcd1d"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/local_panel.py",
+    "bytes": 12743,
+    "sha256": "7644d6c6e1828ec85e16909476233e523622301f9b4a3cca78d1ccf962883f2d"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/opponent_roster.py",
+    "bytes": 23310,
+    "sha256": "8d22673615d242fd3d8c4a9df29a72a5397c413249be00ccbdc8f9a2a227ebf4"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/parent_arm_claim.py",
+    "bytes": 17382,
+    "sha256": "0dcd74172ae59b743e1d70ebd922389ed31623d2588b85a1aedf44ab5fff587e"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/population_readiness.py",
+    "bytes": 40506,
+    "sha256": "8f4a6f8744e4fef0d5bcb0bc623d5e87663a6d635a37ff42ff0b252edb3d5fff"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/runtime_binding.py",
+    "bytes": 6959,
+    "sha256": "198588a543aa8bf6c638f84e9d02a002ae383549bbe58394540c8363d68d6b71"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/sandbox_binding.py",
+    "bytes": 7935,
+    "sha256": "ff7f01fed8824cf360417d7ad6b3ee426cbcdd6bc12c8871b5ca3c920440d37a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/sandbox_protocol.py",
+    "bytes": 30143,
+    "sha256": "8006af2f2887181e0cbb097b15d62b2a1ab544aad4fe1ae5d4a10785ef76df31"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/scientific_audit.py",
+    "bytes": 14713,
+    "sha256": "1bdea47e041cb7d0f3060c36b26bb63841801573b56e2851a176abac96b782e1"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/simulation_design.py",
+    "bytes": 29066,
+    "sha256": "3a8c779b9ee557748d0444dcf72ff7255a41cc3a53b0fbf3230f0119f7c81576"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/training_support.py",
+    "bytes": 15226,
+    "sha256": "9aabc2cc3a60546f5f57cf54cf4d110133b87626c7079b3ae21c4158321b33a7"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v4_2/witness_journal.py",
+    "bytes": 34977,
+    "sha256": "9589f78703a96552421b7a70a65df108add239261958ab298e9231fcc053a9aa"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/__init__.py",
+    "bytes": 1447,
+    "sha256": "9dbd6577b89f2545edf048a4914ef990e96d199e34622c293273d1b3f4bfbde0"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/ancestry.py",
+    "bytes": 14932,
+    "sha256": "886dc1c892dba86a0cde402d16d61722b9cec0ad4ca9ee2be19c6d582c00983c"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/binding.py",
+    "bytes": 7867,
+    "sha256": "03bf915b49192dcbf581e9afd3e5208a68a453dcd49a582671e00d9cad8084c9"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/campaign_anchor.py",
+    "bytes": 14445,
+    "sha256": "5f7640a08d212db4425c494f34b24ca1c5a81a50df9e296afafa495f646c0d42"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/canonical.py",
+    "bytes": 2700,
+    "sha256": "fd2ecabdeb3d157693cbc28656ca538140d9604eedcb9424129b632d778c82ca"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/charter.py",
+    "bytes": 7357,
+    "sha256": "c3d43c819e4905e33ad16caf78e44bf08f4d041eecc06fc531e5a139a80fb704"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/cohort.py",
+    "bytes": 38717,
+    "sha256": "042913c6f11218d98b680ff80c7b3cc8e89f3b70bf2cdc9569c685b710911543"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/custody_anchor.py",
+    "bytes": 21532,
+    "sha256": "b0be8d94ff3a1648b52749a31abb90e275988e8ecfe5d622e51e664d8d35dfab"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/development_evidence.py",
+    "bytes": 19489,
+    "sha256": "4514c7cfc3d9b66dc81b11f24ed4d17348ab53649ed31d6af69102b0d8f477e4"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/development_fit.py",
+    "bytes": 29900,
+    "sha256": "babafa395f011366c8d2cd55fc026ac9417b9f11db57dcc258eecb44ca97393e"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/engine_capabilities.py",
+    "bytes": 12901,
+    "sha256": "9266915660aa3599430f8aa17e6a74db9fb6026e15748050e9b958fc83b473a6"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/engine_evidence.py",
+    "bytes": 18531,
+    "sha256": "93034822708dda5d0142509a311de362a7b2892e3db907933deb7f854886455f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/evidence_bound_gate.py",
+    "bytes": 17402,
+    "sha256": "373f2d14f53c0009a491ea358b335ee1f7ef6b646967c49d672c7e7c92ccb052"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/firewall.py",
+    "bytes": 11332,
+    "sha256": "8216456ceb4081fecae818a1166d0014efc0a42f45a33413846eace5dc849608"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/gates.py",
+    "bytes": 42442,
+    "sha256": "d0237d42e7cfc2ca6c664d6a8dbdafaa4063a55ce620dde4b6eea9974e66d548"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/host_evidence.py",
+    "bytes": 30544,
+    "sha256": "2dd384810df18e8876376fe3601227143394563fdb3b795dc73e71760767a1c8"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/implementation_binding.py",
+    "bytes": 23230,
+    "sha256": "17671906e438117f6374ccca96f792ec11a0749eb7db22326af07e5171b176a1"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/model.py",
+    "bytes": 31627,
+    "sha256": "6564f9b869a116de0b38706a02f9a83253028a3ce9e25a416558c16e8043788c"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/openssl_runtime.py",
+    "bytes": 4296,
+    "sha256": "c6071048f11daf0263237daf3a4c8ead3e06b35f2c7fc3d49e243ba2836f249b"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/provenance_evidence.py",
+    "bytes": 18824,
+    "sha256": "0929837f2c33d0014e2ccc8bb74a7bb99df1b8bad3e60d719ffede13e9b746b2"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/safety_evidence.py",
+    "bytes": 19818,
+    "sha256": "01cc0399395315e5c76f8fe3f7a5ccd89cc35ff01a038cf48b0b4decced337e4"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/transfer.py",
+    "bytes": 17320,
+    "sha256": "753201ff0fb45d7b392fb0169d4b017550f550bc75c407178f2c52caaa170785"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5/trust_roots.py",
+    "bytes": 5582,
+    "sha256": "c7f4d76adbb133cc013bcfefc8b77fc07c463818a29015be8dce4487c9884f97"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/__init__.py",
+    "bytes": 682,
+    "sha256": "b47b7854cf1894812d02b13a77f715b6b4594faf547657f4b4e847011a5276c5"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/blind_activation.py",
+    "bytes": 138210,
+    "sha256": "ad04a5648e7e57c92ac3f309c9a5ea07ca260971a9b1b00d90c8012d3670046a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/blind_release.py",
+    "bytes": 16684,
+    "sha256": "35548d17ff25b5735517d38e54a35a29c16c25112e09af72d96b4073220b2cfe"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/canonical.py",
+    "bytes": 2330,
+    "sha256": "180d57d52645ecb76f024b53013ba27a0dd1bb2ab357136e908d592456cdeea3"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/claim_freeze.py",
+    "bytes": 43766,
+    "sha256": "b6ff5a72c1cfc7e488f820866e9c3daeed4a698a52d9f6b7522a6d8d8ff48565"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/cross_engine.py",
+    "bytes": 120835,
+    "sha256": "94fec52f5f82115b4bbc78d202d089ef85348d79d2427dba80e182085399eaab"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/development_evidence.py",
+    "bytes": 63805,
+    "sha256": "2d804b4760bcc14cd8f44bfb81a7365f1f33b01015e0fbb4241bc6eb3f10e231"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/engine_capability.py",
+    "bytes": 69756,
+    "sha256": "0f2fba805a436277c330bb55b603ba5facdc03d7a818bd55b9fe2cc53cc90f9c"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/envelope.py",
+    "bytes": 6845,
+    "sha256": "9dd5595cdfb37526110eb8ea0306c39f2de39977b96996cf90662ed5574a5576"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/exact_gate.py",
+    "bytes": 14000,
+    "sha256": "0c3a2ad55b3d3f4c6795b7d963c853a3b1b72b1cc291d369a343cbbb237741d8"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/exact_gate_v2.py",
+    "bytes": 49392,
+    "sha256": "1f8b581f7750ca6f3a4f9a8aa2c2c191bc833cec49f1e527af68723eb5ccce49"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/feasibility.py",
+    "bytes": 17783,
+    "sha256": "01d0d1190d8ed14549597fe85745457841c512d74d2d3eaff1308b73e0f32708"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/gate_dag.py",
+    "bytes": 35097,
+    "sha256": "fec98e01aa5693626362c41ec686ebde3882326a7b769a5de1f4198eff4032df"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/governance.py",
+    "bytes": 124354,
+    "sha256": "e32dc9f9936b0ec016e75ce661d1804baaed8ecafa34ed86315c0ca6e1a729fe"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/host_census.py",
+    "bytes": 68414,
+    "sha256": "85546d76a28c1265f10e91230e374f80636a12ec745b5d1e435bb73868165ea9"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/hosted_dev_custody.py",
+    "bytes": 74312,
+    "sha256": "a22f8c2078d780138e50fce5cf245ee12c87ee3ff48bfdf17c49d563c93434ab"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/owned_pair_pilot.py",
+    "bytes": 36736,
+    "sha256": "230afb2319cb769d99ef75f0220b68bf08556923fff43f46b0399fefd699f496"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/paired_evidence_preflight.py",
+    "bytes": 37533,
+    "sha256": "d5b48507e8485b11faf7eaebc5043e0431eecdd55390a9cf8d17b1a758a7cd3f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/production_candidate.py",
+    "bytes": 41253,
+    "sha256": "e5372e4c101c51ec38c3d436cfa60449c569ab90e974eba5c14c1b8c36062f93"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/production_release.py",
+    "bytes": 47072,
+    "sha256": "9a552aa06d75e07ea9468d283ed0017dc9b6b754141f3b5e7056cbf34d967d87"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/prospective_transfer.py",
+    "bytes": 28287,
+    "sha256": "4cfee3025059a43837819dd567a8a58f29b3eea712d5d146869cc6005b840806"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/rebuild_custody.py",
+    "bytes": 37415,
+    "sha256": "d99f54642aeefabc92a1c74c698964cde1fd6166d237524a386cd90573e26789"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/recruitment.py",
+    "bytes": 50148,
+    "sha256": "680e086cd184100805e31e4cfa278bbbf3a780b7339d9567d7e2755a9c0e5a8f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/recursive_verifier.py",
+    "bytes": 25570,
+    "sha256": "4c508d3b341dc0f3ad84266c907326dca050a7b4897fa3da72088aa6a13fee2f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/scenario_evidence.py",
+    "bytes": 58721,
+    "sha256": "5942b7507dd3c80818ad4ae9c670f93d5e0fcf3d1336c0a8caaedb68f34850c1"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v5_1/statistics.py",
+    "bytes": 12063,
+    "sha256": "f2b254d44128b89abe8c6f87720bc1da40be28b38c35fd9d508bca5f1cad1038"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/__init__.py",
+    "bytes": 3814,
+    "sha256": "7bf727d5d208d97e6a2440ae15a5b0333280af48e5607ddebd8d9da9a651e304"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/attestation_v623.py",
+    "bytes": 77873,
+    "sha256": "6890f1582d79346c36a9b105bc94ca5e3956c75856d5f323f0365ec5bb95bdfb"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/evidence_v626.py",
+    "bytes": 37004,
+    "sha256": "b8870ca9cfd66afb6c2c271794f9b4450a2ee338f28d4db388c026059f88a891"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/executor.py",
+    "bytes": 37354,
+    "sha256": "54812fa12fdc458de22e9e99dcf6ceff52f878c26d86a24503fbb79abfee5e5b"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/integration_v622.py",
+    "bytes": 26764,
+    "sha256": "6cf6870bb8694118171a117df26ea5f2db97982f04840c271240d339f9f4999f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/protocol.py",
+    "bytes": 22359,
+    "sha256": "38dd8d0c99b322225ac884579ed7422d35ba6e9354cf7a0c26208db516775fb2"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/provisioning_v626.py",
+    "bytes": 43454,
+    "sha256": "484406d2a5f4006e28e035ee553b4e6e346c4c058b760f9daa39cab69da7198c"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/release_v624.py",
+    "bytes": 2033,
+    "sha256": "5bbf32e975bf1d4e1820b4d3e160e1336bb916b003db19a6547f4b883976d844"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/release_v625.py",
+    "bytes": 145032,
+    "sha256": "4f7545f027dd31ff49167293e168f88c0d95d2318e05176b6c40e21ced1eceb3"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/release_v626.py",
+    "bytes": 34131,
+    "sha256": "04a7cd2185732798e98aa7a7b637a4a8005e5eeb576049d8290741c8ea702433"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/time_client_v626.py",
+    "bytes": 1948,
+    "sha256": "eaf92d0dcf25b950a20c5c4cec11a06e43d8ecd9ce0d547d29858326ff4103f1"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/trust_v626.py",
+    "bytes": 40651,
+    "sha256": "cbf2dc60c6cd04f64ec978f4774d7e29e7d4142cec6b26d4b4e40184fec3f1bf"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/verifier.py",
+    "bytes": 22820,
+    "sha256": "66e5bc27f7b0222c5fc8242a7f74a5ef3221d699595ab0da3c0563a12f06b80c"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_2/witness_client_v626.py",
+    "bytes": 4230,
+    "sha256": "4d1335f0acf80d91ad7ab9c022203df06b375e825dee9ec93be259a8163e629c"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3/__init__.py",
+    "bytes": 2206,
+    "sha256": "7862696cb777ab1c2ea0cc22dd9bd96633d37462849febe42288f7fbbec9d00d"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3/common.py",
+    "bytes": 9555,
+    "sha256": "5a89eac8783ece969b72886cf3a98c6e7b7e3621cf21d23aa7cbf4d2c907a7fa"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3/hosted_custody.py",
+    "bytes": 49749,
+    "sha256": "571969500ce3f036202431e1c35267f5a6090eccc52fa645b095dce27bfe04fe"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3/hybrid_trust.py",
+    "bytes": 53249,
+    "sha256": "7e2bef1793bd875b7771b2edc4b1e4ac7f948a5a9ac6ca7aade99d819c042f58"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3/live_crypto.py",
+    "bytes": 34056,
+    "sha256": "22422557a15cfe2039b1d2d1759085a583bbe115bcd74234ee3f136c1f3462f2"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/assignment.py",
+    "bytes": 51253,
+    "sha256": "716eb8ab51e3e553ab1a1af053498272e4651f8275f7cdf762780fac852e5ba5"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/canonical_trace_codec.py",
+    "bytes": 12764,
+    "sha256": "2f12dda727ea8b5597a2239fe269abc0da70c8ecfb96b23271729caa393528bc"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/canonical_trace_replay.py",
+    "bytes": 47412,
+    "sha256": "458975880a8aeee7157907245d0e368a8075ecc472c0a0e668e1da6f2d71470a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/capture_namespace_v1.py",
+    "bytes": 14354,
+    "sha256": "f2ed7bd34dbaebaefd6c047efb5c78a7605dfe4bd6ac32709c98326b87f9ba6b"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/capture_v2.py",
+    "bytes": 32758,
+    "sha256": "310e301323eb5787cee6d3fad88e2cccb4da21a968898e466a1d12e15976d6dc"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/capture_v2_assembler.py",
+    "bytes": 38855,
+    "sha256": "12c2f22667a9d9f9716679907b5d64ab224fa920d309846aad24392fe86935b2"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/capture_v2_manifest_v1.py",
+    "bytes": 30778,
+    "sha256": "39949ecb7d671c53ca11ea2f9f573ac860dfca8c73fa52861d28cab7378dafea"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/capture_v2_native_handoff_v1.py",
+    "bytes": 39808,
+    "sha256": "164d4c309c77d243bcfb70d18eaded81ca4da10f012fa05d6620f3234b02e008"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/capture_v2_prelaunch_expectations.py",
+    "bytes": 16455,
+    "sha256": "dd807f4b5f6dfd6ab2c5c00eca9d68bbcf5a711c70ae1bddf7a2b2824e447b4a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/capture_v2_supervisor_transport.py",
+    "bytes": 12937,
+    "sha256": "9db5f7a362c3584466b9b7b0f6ff4db58a65dd3d804845dc3d447a4989721759"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/common.py",
+    "bytes": 2658,
+    "sha256": "9f0e3cb15b554f03de6d48cbbf9bb0364e20d7cc1976b092a2ad026316fdad23"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/cpp/V631302DurableJournal.h",
+    "bytes": 34799,
+    "sha256": "8b9336ba0fd6d3fff56a25567f2c6e65d1386cde3238c3847cc5d84964c07811"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/cpp/V631302DurableTraceSink.h",
+    "bytes": 4959,
+    "sha256": "26e358d39f090521c92a33544f275c09abbdcd82a9b289819f9e1077de57e823"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/cpp/V631302EngineSession.h",
+    "bytes": 8664,
+    "sha256": "c4fecd1878885760c3282186e2ac2b35236023ebe0ea8b392e5667c5d3797130"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/cpp/V631302TraceEmitter.h",
+    "bytes": 34057,
+    "sha256": "57380c1584f3bd12def1803bd4f627f0c0b3a7a8c8025c131f7641ddda53ab6d"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/eir_prebinding.py",
+    "bytes": 68436,
+    "sha256": "0b0529944814deee96d4b9294308a321202bdfabc1026230ca087adace5aa8ae"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/eir_runtime_bundle.py",
+    "bytes": 34311,
+    "sha256": "d3f7be4d5b7c61f4208eba0762d6e71332f752e773dda3d5dbc254274335b51a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/eir_state3_namespace.py",
+    "bytes": 31017,
+    "sha256": "1b2f00d65ee9dc2f6dddae3b0159df1c7b2383af65705a29308ac5e8d038b233"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/eir_state3_semantics.py",
+    "bytes": 67145,
+    "sha256": "03767c8fa8a52c92d0e713492353347f44eab03ada05e25b8217902e05477ff2"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/entropy_completeness.py",
+    "bytes": 21677,
+    "sha256": "eb7803d19fc1df500c6be867a3eaf6e48fc4f7b983d2acdbc828be57b53a6c34"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/entropy_evidence_collector.py",
+    "bytes": 20857,
+    "sha256": "2ec1f6cf7efbe0a86b9447f9962c4f47d70fa43353ad0a30d1d9e0e6f6554ce3"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/entropy_mutation_suite.py",
+    "bytes": 43737,
+    "sha256": "3df3b3e84a7de5b8dbf9f3e528993dc1516e88259afe6699aa2b5b6c22c6c248"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/entropy_real_collection.py",
+    "bytes": 26460,
+    "sha256": "a9e07369ef84c716ec5fa78d4f76ea8a41d4a0ec2c67ee0b5d82e6c00bf43af3"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/entropy_runtime_sandbox.py",
+    "bytes": 34866,
+    "sha256": "4faeec3f2dce03a76aeda66c9a77a263aac8377776fb565bc24b97186188e2e9"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/entropy_static_closure.py",
+    "bytes": 48125,
+    "sha256": "d6343f107c93c031a62bbe529d7a20455a6947f28559edc2dbc2a78b24fbf394"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/exact_bridge.py",
+    "bytes": 10122,
+    "sha256": "862b414cfcaa6d466806b17ab67df629513ef156e5703faa4cd415bd9275f602"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/exact_statistics.py",
+    "bytes": 94363,
+    "sha256": "8591e7d5122d1224f80fd8d2d2556255e044825116ff22b9e0bd74096e0df563"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/hosted_custody.py",
+    "bytes": 47336,
+    "sha256": "0e0b312d04888f78d45929e148e49fb087b1b6f791f8fa202f40cd329d035309"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/launch_gate_decoder_manifest_v1.py",
+    "bytes": 50395,
+    "sha256": "ba7133372cd6bb307ce46e9db044f770e3e590522089914f84c376d856d65f1c"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/launch_gate_dependency_manifest_v1.py",
+    "bytes": 23319,
+    "sha256": "7e2b6b0da09b5bb7e47e3593c165102cf660db3e867d885e0ea227d74d0fb144"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/launch_gate_elf.py",
+    "bytes": 16346,
+    "sha256": "2569d97445a75ceef8aa7cbb8b17641a34cb0ee4a3707c1f12d1b8676ed85223"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/launch_gate_stage1_custody_receipt.py",
+    "bytes": 34973,
+    "sha256": "3eb3e4a57a859a53bdd87f87a2c36c638e407ce2fee15c143356cf0247f6ca75"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/launch_gate_stage1_extraction.py",
+    "bytes": 25706,
+    "sha256": "0b4b0985d035b1af5c02b03b083f3eaa87d2bb5d525f9064d47f1d6d197ff717"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/launch_gate_stage1_packer.py",
+    "bytes": 6941,
+    "sha256": "5ce945ce30041f6013d0f150456fce2d99308c8aaa0f2e7696feb878ccbc413a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/launch_gate_stage1_profile.py",
+    "bytes": 25529,
+    "sha256": "3f328ab813f78adf1a94ffbd8822224d81198731fce9d38f97bfd03fdf1eb7f9"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/launch_gate_stage1_validation.py",
+    "bytes": 34132,
+    "sha256": "60e2604522188cf25315fc3ca80f0ee08b8ee8b7f5a6bf00bbad7cdb4e0ec8d7"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/live_crypto.py",
+    "bytes": 28994,
+    "sha256": "b0c6f137078ac14c9c2e269e908a9e3a8f21680f80f6d2fe93f2dc037fb58df2"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/local_panel.py",
+    "bytes": 53479,
+    "sha256": "b2c69e9bd67c2330b37338a92079a16bcd1874f00c347368622b6f6a8ec4b488"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/m0_diagnostic_census.py",
+    "bytes": 43366,
+    "sha256": "1c379cef095a7be4cab4d0ca3eb083ffcd3b9f3bfc35201d1d39aaa88dda558e"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/m0_diagnostic_primitives.py",
+    "bytes": 20056,
+    "sha256": "226b7ef26df5a78c8eb264acba84c3488c40916a6316834a0cbf425f36ca2333"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/m0_inventory.py",
+    "bytes": 20889,
+    "sha256": "707c5181dcd33760f9338b677e7f8b5f2fd11eb81a13469e7f719b6160110efe"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/CaptureOutcome.cpp",
+    "bytes": 17063,
+    "sha256": "fee9b84d841a9df5699c38e4784ed5c883786ff6322e661dadf130a6a7a9a594"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/CaptureOutcome.h",
+    "bytes": 9970,
+    "sha256": "2b4ec4da072fe500079a82ec021f4ef86378c7c936224128160424a11688ec63"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/CaptureSession.cpp",
+    "bytes": 8184,
+    "sha256": "48863cf0d90b20c6430784c2f33e86064d3bb7d2fe09111fcd043ae473e748b4"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/CaptureSession.h",
+    "bytes": 2217,
+    "sha256": "e02ce25d1c4b5f07bed29fe62ea6d1e1b3e56ec11ae06b77c76b9417767192e9"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/CollectorReceipt.cpp",
+    "bytes": 18256,
+    "sha256": "a3b0241820eb7f2ed3dd5c693eb2459997c52b7da669bd82307353f3cef93bdf"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/CollectorReceipt.h",
+    "bytes": 2059,
+    "sha256": "38f730f94645cf6ded9a87c5776870316a7033d5256d6b8ec8d2cdebfb38457f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/ElfMetadata.cpp",
+    "bytes": 21054,
+    "sha256": "5a025777e563d4268fb0d226c9e4382dde391052ae0b9dec695baf05e65479ca"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/ElfMetadata.h",
+    "bytes": 1746,
+    "sha256": "38b6c6fb05ca92eafac0f41b0993a7b4c24a4e3e4b2fde13074bf07c33a8ed3f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/FdTracker.cpp",
+    "bytes": 6761,
+    "sha256": "21ac4bcb40843d82d4d59bb0db22b3f1bc42968341bd5554b5c1727feb7d8443"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/FdTracker.h",
+    "bytes": 4816,
+    "sha256": "d183ce38fecebfe79f02e538e6933ec0898528d2be39c0fb2a187a66f73bf5c5"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/HarnessObserver.cpp",
+    "bytes": 27449,
+    "sha256": "d145c9d1b2cccba4ad8ffdf257e4664ae71d4336cb7d941f64e7902fab6eb5db"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/HarnessObserver.h",
+    "bytes": 5345,
+    "sha256": "b2636573c83c9aba7cc3bd532c9eededbb5f4261d7d7a2369d345a32534e61a0"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/LaunchEngine.cpp",
+    "bytes": 29742,
+    "sha256": "ec7f09c972c3f4f5a977c7894defed51b07baf8d3752b92b1fa05fee998e3d80"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/LaunchEngine.h",
+    "bytes": 5486,
+    "sha256": "2727827940bb43c5c512f6fb30ba98274ff9e1c4b074a8c470c13d5758e51e44"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/LaunchGateV1.S",
+    "bytes": 8546,
+    "sha256": "4afd4dc41f802b5318893e76655e4b410faa61f24196ba476ab54218c4c3b1f0"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/LaunchHandshake.cpp",
+    "bytes": 6505,
+    "sha256": "928fab61a65a12f2275ce87be22bc9c3035743d1af47a620ad5448076f8aabc8"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/LaunchHandshake.h",
+    "bytes": 1495,
+    "sha256": "0047b23faa30990f4336b46a3c6998c5c0aabfcd6bbdf4855facb75006a7d3e7"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/MountSandbox.cpp",
+    "bytes": 13779,
+    "sha256": "82666aec71c8145c7fee063cd977fe1345fe31b2d668184f9f1372fff8b67c1a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/MountSandbox.h",
+    "bytes": 1321,
+    "sha256": "10eef1adba586bc88f6d8f230bba4fb305fb7a9aa1286c00a9e9bc404c1e226a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/NamespaceIdentityObserver.cpp",
+    "bytes": 11421,
+    "sha256": "d8033806f5549a0acb632bb85d89390a44df6593731224fa2ed16eeaf02f9ad0"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/NamespaceIdentityObserver.h",
+    "bytes": 1664,
+    "sha256": "4ac9a3d34bfd706c36232f5cf13093ea34974324cacd970ec5b5e5c9c5623c34"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/NativePrelaunchHandoff.cpp",
+    "bytes": 23776,
+    "sha256": "dcab68d4d7034ddb91c31ed9936c5fb9a5553721b52b8d104e40e89501b95f61"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/NativePrelaunchHandoff.h",
+    "bytes": 872,
+    "sha256": "cb21992c825b6e18e56d0c90e7d438cd8f7cc59b84f71ee510012c4b7fb0e432"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/NativeSupervisorMain.cpp",
+    "bytes": 2366,
+    "sha256": "886018d54d7e1af49dfd8df9053ecd6b0aa5cacfd3578b0274a506bad36e17ca"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/OpenPathResolver.cpp",
+    "bytes": 6282,
+    "sha256": "aef2126e3a3a128d5ed3e78543355dc400f84d21c9e18ed3ac13e83a1e161c9f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/OpenPathResolver.h",
+    "bytes": 1106,
+    "sha256": "a8517470862b612e8a996c930d0f7a28d83ace1c732b9f33a8451eee116e0829"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/OwnedFd.h",
+    "bytes": 1277,
+    "sha256": "f67d3275dc581a9bc4d3d855be0a268429693515a4563fb428313a20994ebba5"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/PidfdOpenedFile.cpp",
+    "bytes": 6392,
+    "sha256": "86fb9d7129413a32983a4bec6e3018315eccb3637fd4591930289e47f9c67a12"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/PidfdOpenedFile.h",
+    "bytes": 2046,
+    "sha256": "30c0fc249c3abf44278bb07e8ceaab7732ff9409d1080d0b9d809aa035f9ba56"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/PipePump.cpp",
+    "bytes": 8524,
+    "sha256": "629a6e13490991abfb0e08c0cde06b91b826c5dda05baffc89a253bd9b5c0aa9"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/PipePump.h",
+    "bytes": 4375,
+    "sha256": "5b5a981d1168867b4a09b6c7a29690b239ed1b8bc5e392c988474cd4cebaac9e"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/PrelaunchContext.cpp",
+    "bytes": 39649,
+    "sha256": "27ee39868e9fa3b45d4014550342d5bec3bb26d52eb51f7e71f301522679fb8c"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/PrelaunchContext.h",
+    "bytes": 18845,
+    "sha256": "8c36989ea722e3ec77ab3785d681aa97567f975fb889ef46d5f1ae6cf055d6ad"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/PrivateBridgeEncoder.cpp",
+    "bytes": 15891,
+    "sha256": "8a9a580e4f3035a4d9dfe07ad25aabfce575c6bc0b255046629b6fef22db142f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/PrivateBridgeEncoder.h",
+    "bytes": 1246,
+    "sha256": "ecde80c89fb707f070db69693dee06295d1ab766a0f7ed03331b47167cf6c875"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/PrivateBridgeResult.h",
+    "bytes": 4038,
+    "sha256": "ca15f862f48ab5168da269dc831bcbfddd9b594c108944341d05adb57d7490af"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/ProcInspector.cpp",
+    "bytes": 19581,
+    "sha256": "b731fb0c916ed7f65d0e53c66afcedb827d8ed992ef00fbe17d8c145bdc1ea3d"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/ProcInspector.h",
+    "bytes": 5081,
+    "sha256": "68477ff83ec8e70771e18c5af020f3a2009ac59b829cf81d8e35787a1d584ae1"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/ProcMapsParser.cpp",
+    "bytes": 7830,
+    "sha256": "aae3cb8f9ce6002cc0dc24fc4f58f533a888cb738e7e3017c5d730c5fcfa44ef"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/ProcMapsParser.h",
+    "bytes": 1561,
+    "sha256": "6bdcb483e90bf563712246f757d30c0dc67b91f638b724fd6ccbf067107dc45e"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/ProductionCaptureBridge.cpp",
+    "bytes": 761,
+    "sha256": "35b2c3938edb585457c7b7ee09887f1eaeac6282875aaa411b43cf84a32014b0"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/ProductionCaptureBridge.h",
+    "bytes": 951,
+    "sha256": "13e0266cd56211dd2031fad4baddd529ea042570f021862a23173f3056b5bd1f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/PtraceExecAuthenticator.cpp",
+    "bytes": 7783,
+    "sha256": "c99d5879dd5fad40f703993f6769b9ad46a5c22702f885076433a433baca27f7"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/PtraceExecAuthenticator.h",
+    "bytes": 2010,
+    "sha256": "f25a1f81f26a6067a2b00d7a077591df7c5b101e7796fd52c05cfb017b2a8850"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/PtraceOpenSupervisor.cpp",
+    "bytes": 51020,
+    "sha256": "fa177e8ca953e6c0a32f3931529acc082c7b4b0f4ba5f5d97b8f8ac2983fc5ce"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/PtraceOpenSupervisor.h",
+    "bytes": 6805,
+    "sha256": "fd4deb1ee1f96d478e5dc081a1ad20d8e3d362af490e54724db0e0970378e182"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/ReceiptStreamParser.cpp",
+    "bytes": 23270,
+    "sha256": "269a59873c708f05239798a4a0d27439b87753ee5effb8a94457bdf1db4c19f1"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/ReceiptStreamParser.h",
+    "bytes": 5225,
+    "sha256": "fa1f028b3a84fa0ceb7d8434ece005fd14c0779da1d86a09749c7a4d6c4d4413"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/RetainedInputs.cpp",
+    "bytes": 15010,
+    "sha256": "a7910a5e70eb4eaff62812dcac6d743e560b80b190c6fc1da6d316304eb1095a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/RetainedInputs.h",
+    "bytes": 3094,
+    "sha256": "5fb641d7b188014eb1df6e2fc5723482871b6cd382f2d8dad3b8ce07ca04076d"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/RuntimeObserver.cpp",
+    "bytes": 35978,
+    "sha256": "157e821aa2c1da5688b1d4d15901ccee05315f9e0f7ad7e7f32965ddc8c8afcc"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/RuntimeObserver.h",
+    "bytes": 3764,
+    "sha256": "59d1f3f57946f78ae5b90f491b0ef51e23dce49b16b5fd44f466dbd330f6d6c6"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/Stage1ExtractionChildGateV1.S",
+    "bytes": 3868,
+    "sha256": "044a7c45f5a4b7d961e70a9cadb5b4a09b1fb7adf16a5472eb21de23879ab026"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/Stage1ExtractionChildGateV1.h",
+    "bytes": 4646,
+    "sha256": "e9e29b9e5cc1e748ac74de905673e3e000df7fcc102146bf726f82a6c04d720d"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/Stage1ExtractionCustodianV1.cpp",
+    "bytes": 83151,
+    "sha256": "c4e5c9e0aca562a7f0aa1f103000081cb5e9184112602c8de4a4f3cbe336c96e"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/Stage1ExtractionCustodianV1.h",
+    "bytes": 4772,
+    "sha256": "abafac1e838acad35f01877200639e6c7afe976d6f6b2ee44fa32a99b4c4491e"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/Stage1PidfdChildLifecycleV1.cpp",
+    "bytes": 12294,
+    "sha256": "557e07b1e94643e316943c3626c110940998c384ef763d0545b2294a530f85c3"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/Stage1PidfdChildLifecycleV1.h",
+    "bytes": 3204,
+    "sha256": "69b5e9e86a029b02cb93ab4212238688b55f19c3522254525c09c781105a6618"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/Stage1SeccompFilterV1.cpp",
+    "bytes": 17301,
+    "sha256": "72991003219fe1717e4c035ebc9d5e1de41bfacc7c7d2279f92a09e3387f7860"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/Stage1SeccompFilterV1.h",
+    "bytes": 3330,
+    "sha256": "a53ac769f9aab6b0219ca794fceacec3c8ae0a60b1a8f3c6c13984c4665c1513"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/SupervisorTypes.h",
+    "bytes": 1540,
+    "sha256": "281e796122656441facf0b875690357ed554c6a9c05e985bd089acca69652e3e"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/SyscallPairTracker.cpp",
+    "bytes": 3252,
+    "sha256": "59a58566acf1e080483d968f14864552dc77a30c5f4d52ef6ae2029a38ea8e09"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/SyscallPairTracker.h",
+    "bytes": 5103,
+    "sha256": "a6f89b9924f9a71e2651a971c4dbe690529c21c881acebdc9c328b78b27d56af"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/Timeout.cpp",
+    "bytes": 13705,
+    "sha256": "272e1a013fe92b837f5a04a1b44dfc9cd32836529f08d0c1c21540dae81eb9c9"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/Timeout.h",
+    "bytes": 4227,
+    "sha256": "1c1b0c8c03e0813468c0e02d84c64a41df7579439550917bf8ee3f72b4730bfa"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/TraceeMemory.cpp",
+    "bytes": 5171,
+    "sha256": "b4d727a3bfafa93f31e9776abaa5e2012d83df24934b6c74f452af19420d14f5"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/TraceeMemory.h",
+    "bytes": 1988,
+    "sha256": "dbc0461a65cd9fde43daf16b85f8262cbd9498e8b31c80799c97879e3a8ef9f5"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/WorkDirectoryCustody.cpp",
+    "bytes": 32211,
+    "sha256": "9cbeb79582ccb907e12a73580dfa99db925fc05faf7bbe35eabda283610c0a59"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/WorkDirectoryCustody.h",
+    "bytes": 8393,
+    "sha256": "4ab460cf40a7e57b18b84696a07827d416c43d563833e7552a5830277a665d44"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/stage1/receipt_v2/Stage1ExtractionCustodyReceiptV2EncoderCore.cpp",
+    "bytes": 28060,
+    "sha256": "d8da423d45ae95adf2b2a1638c132f32e6859d21330b6047c2810f4039efd2ef"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/stage1/receipt_v2/Stage1ExtractionCustodyReceiptV2EncoderCore.h",
+    "bytes": 6102,
+    "sha256": "6112e5117be437c1a54ebedc407efefcf67c460a5a0b19dbae97cfd0d1cb0ecb"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/stage1/receipt_v2/tests/Stage1ExtractionCustodyReceiptV2EncoderCoreTest.cpp",
+    "bytes": 49120,
+    "sha256": "e6679ddf0c269e543b8458cf314f54c6b5802e5643489147d1dfb66003576321"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/stage1/receipt_v2/tests/stage1_extraction_custody_receipt_v2_reference.py",
+    "bytes": 35974,
+    "sha256": "4cf575b1a91df0e9a81f9d2d77579c33033e2cfd62eaadaabd60329c73541ad9"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/tools/launch_gate_llvm_mc_decoder_v1.cpp",
+    "bytes": 46748,
+    "sha256": "b3eccff0428de3702d04545581642e124d38b938a2770706841da2cde85f6563"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/tools/launch_gate_restricted_x86_decoder_v1.cpp",
+    "bytes": 50377,
+    "sha256": "3c334553506b1ba51d5219111cb1fd7e597aaa22a2973a2110e66ce29b145a84"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/capture_v2/tools/stage1_extraction_custodian_v1_main.cpp",
+    "bytes": 219,
+    "sha256": "380397454df67dbc527038f879d264820fce3d6cabc01161e7cef32167af298f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_collector/CMakeLists.txt",
+    "bytes": 6782,
+    "sha256": "f70d8ac8d799a0192da50da3746c9e861dcbc3da1d915e3aa585d670475a6cfb"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_collector/ExecutionOrigin.cpp",
+    "bytes": 39326,
+    "sha256": "f54895335e97f8d1bcfbda6b6394256a889e2b061944a82e116508360b5f6be6"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_collector/ExecutionOrigin.h",
+    "bytes": 871,
+    "sha256": "c843bfb70ffeb61d3039eb1390a0b01a297b7d2a110d6a1ab7fa7b337e02a020"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_collector/ExecutionOriginBuildConfig.h.in",
+    "bytes": 1363,
+    "sha256": "12c5655eded1b6e6b001c6fee2295c93fe9ee104fbfb9a3c235e6e659ffc71bd"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_collector/FreshWorkerMain.cpp",
+    "bytes": 649,
+    "sha256": "50825aa87f926a279e3eeb29f2a9d4ed9b7ccbafef6149436e63f70279151b1b"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_collector/FrozenTargetDescriptors.h",
+    "bytes": 9489,
+    "sha256": "6bfaea84b67673477a70953584722b9b00056b39ceb824ae6a2d31ec78342f03"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_collector/M0DiagnosticCollector.cpp",
+    "bytes": 74685,
+    "sha256": "8a78918789fa02045d243452a946f46555633933e2465cc87ffededd2fc7d173"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_collector/RawCborWriter.cpp",
+    "bytes": 3314,
+    "sha256": "98810bc2fbccbdd3f9b10514e03ee73edc91952c0133cec46f3f27df6f927290"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_collector/RawCborWriter.h",
+    "bytes": 1114,
+    "sha256": "00ca7bdf8d2c3f8b03b346ee63278a054199040c0ba24bac6b16ad3ca19cd69b"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_relaxed_fixture/CMakeLists.txt",
+    "bytes": 8773,
+    "sha256": "5f9d2de5d20dd30693bd2e983ab64730562591326d3bdb9c88ecb638d1b7b888"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_relaxed_fixture/ExecutionOriginRelaxed.cpp",
+    "bytes": 39651,
+    "sha256": "cad9f8655f20fa4cca6a7a16f030f1340c4b4b937b0c2a29a2d8e82554d7182a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_relaxed_fixture/ExecutionOriginRelaxed.h",
+    "bytes": 648,
+    "sha256": "a84f32311702aa806e6edba78a845d66feb014c143d6961c18843ff12805b056"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_relaxed_fixture/ExecutionOriginRelaxedBuildConfig.h.in",
+    "bytes": 2144,
+    "sha256": "a8f3b36b53f8497d9f6cf14bab55306186232257f387b09eb8ae9c9cc265a789"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/m0_diagnostic_relaxed_fixture/FreshWorkerRelaxedMain.cpp",
+    "bytes": 795,
+    "sha256": "4767dd4c6d4ba0d4cdbcf506ede0c0c66216a6aa0191308fcbc10348bf65c82b"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/state3_extractor/CMakeLists.txt",
+    "bytes": 1083,
+    "sha256": "032fe05899239c6a481f6248f0e726e400c03a44e61e503ea92144b5c4af4f1d"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/state3_extractor/CborWriter.cpp",
+    "bytes": 5047,
+    "sha256": "2b449455210eb978b3710e3fc689dc06f3d08981773ee30bdb56219ad842a23a"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/state3_extractor/CborWriter.h",
+    "bytes": 1158,
+    "sha256": "99568079d25f7f94c1a84dc40062ab4bc88de97aed30d205aff896438c60de1f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/state3_extractor/Observation.cpp",
+    "bytes": 9404,
+    "sha256": "1cdd467d177ab8dee93f1c9ab047dd753492b8c5fe0c0ef804bc48ef43d0ed9d"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/state3_extractor/Observation.h",
+    "bytes": 2110,
+    "sha256": "0d8f4ecd995e728294eb359f1b5b33652fe7ec5934775a309323cd4f1b350fc8"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/state3_extractor/State3Extractor.cpp",
+    "bytes": 67269,
+    "sha256": "3fa7b4520dfc4f0f9757dfa103c038173e6cfd4a750d904f207c60ee1c81dcd1"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/native/toolchain/Dockerfile.dev",
+    "bytes": 3421,
+    "sha256": "4cee230f493bc1eacab71af08e54cad59747a6394a733e47716d4e15d147c757"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/permit.py",
+    "bytes": 40853,
+    "sha256": "a569c137604cc7ee696d18e4ec68ef5b17d94757c93b102b3bc0ad519adac4e8"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/policy.py",
+    "bytes": 20335,
+    "sha256": "b0fb13f06655289cd6e9c6b4763c037c114a1d63301fa7947f19f7fb56246c5f"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/population.py",
+    "bytes": 55169,
+    "sha256": "5c91afb8a11f0022cd83d46ac8262cc69d3393b41418a123125edffa4648b468"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/protocol_retirement.py",
+    "bytes": 7044,
+    "sha256": "9bfa6796baa48aa1f7621a7aeb5c68fd7693b893fec589fbcac81cd24ffe21e4"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/rng_branch_trace.py",
+    "bytes": 43256,
+    "sha256": "92157e999e214c4b030ca57b4a892e22980ca8a6696427570ef23a9249631ee2"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/rng_gateway.py",
+    "bytes": 32223,
+    "sha256": "59b4d86908c181cd37dfadbfeea95b46609f2f24d4d7eb7619dc16006915b998"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/rng_seed_custody.py",
+    "bytes": 29100,
+    "sha256": "daadadd3e2623f365fa4b8cdcf9034faab36390050e10e0bdb6f90b8ec9462c0"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/rng_seed_protocol.py",
+    "bytes": 9070,
+    "sha256": "d2ca32ed1b8af5bac6d1f4f5a9b810f49cf29809064ee8ea2f5621bd8c669d92"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/statistics.py",
+    "bytes": 89936,
+    "sha256": "863b7a5493e59247b69711b1b6684d09eeabac6948243de8401b3f39d35e7428"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/status.py",
+    "bytes": 1830,
+    "sha256": "7bc786eb96aad12db1d00141a48c6c1e8a71d1bc4003a7d883c81620573c81d0"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/trace_bootstrap.py",
+    "bytes": 21154,
+    "sha256": "c458c9294e022c112547efe0ff8d418cad201de3d29ea58d57d1b817d1bb0c9d"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/trace_coverage.py",
+    "bytes": 21366,
+    "sha256": "7e80077ac717d5d81cf2d563180821c0fff626a540a46e8eff3cfa2c2937c190"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/trace_features.py",
+    "bytes": 45775,
+    "sha256": "84e16eabdb49e89f2247c703e80da24e35c6308f60cd40e395e35c6bb1c320ec"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/trace_source_inventory.py",
+    "bytes": 19496,
+    "sha256": "c3fa328df01a675104294d1234c9f7fb31c58149faaee00bc4f1dd9251a8e260"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/unified_rng_events.py",
+    "bytes": 59910,
+    "sha256": "873cfb0ea553b3129d4da6daddfd4d789b16d82353c221ed1deec775f1c68367"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/unified_rng_protocol.py",
+    "bytes": 26510,
+    "sha256": "7b2b1772857a0bfffba6590862c80ae8f73e4159578b61c5f6077cfacd4c7445"
+  },
+  {
+    "path": "pokemoncard_kaggle/evaluation_v6_3_1/unified_rng_resume.py",
+    "bytes": 36883,
+    "sha256": "b90d11bcb15ecfd903d7a83aa72adb63fcc7416d3609fbd02771647f22dd99ed"
+  },
+  {
+    "path": "pokemoncard_kaggle/pytest.ini",
+    "bytes": 131,
+    "sha256": "3721367a1d98023ac936b7ad971d15e4a7500cacd6c01815f32045377345f745"
+  },
+  {
+    "path": "pokemoncard_kaggle/submission/main.py",
+    "bytes": 25234,
+    "sha256": "570cf7213924e40c2c8cdaee75794c9c8742b38ab91d507df589e6c86f8ce78b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/conftest.py",
+    "bytes": 547,
+    "sha256": "c8d08691605ee9a03b79e73405795bb909fd0f999c9183124697c7054391f83d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/class_template_static_fixture.cc",
+    "bytes": 300,
+    "sha256": "c96a2c60e418d24e20bb22dd7cc7ccfaed080ffcf61fbb902bbf1550a75ceea0"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/declarator_type_expression_fixture.cc",
+    "bytes": 346,
+    "sha256": "6afc80327c3cda29c6623bd660854aa2a80563125704cedc3d9891cfa1970bec"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/definition_instance_collision_fixture.cc",
+    "bytes": 401,
+    "sha256": "8826b075faad24b0801878bd2ead49ca20c4e1f63e527c979b698a331f22c966"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/definition_redeclaration_error_fixture.cc",
+    "bytes": 121,
+    "sha256": "41141c8ffe8206b161a99fe1682f6b1253dabfbe15aae1c5696022d65150d1ee"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/explicit_template_argument_fixture.cc",
+    "bytes": 685,
+    "sha256": "946eeb53b198e69ef9d014f25971fb397de6eb4a0ef677dfec1dd0a30356c8b6"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/fixture.cc",
+    "bytes": 1599,
+    "sha256": "b0c8725bb959f643687f165e652390f4d6f080f90024d19f7986c02df3da9b2a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/friend_definition_fixture.cc",
+    "bytes": 129,
+    "sha256": "cf812e63e1bdb92aef75033ca633733ad98486d26999cecdd5aaf82764b6c284"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/implicit_class_template_static_fixture.cc",
+    "bytes": 119,
+    "sha256": "835468ecf046b61aae8dfb310a9d7795236cc3472ff050741dfc199adfdd11a5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/m0_globals.h",
+    "bytes": 203,
+    "sha256": "f8d504e37812e498af02c2802875d76fb1cc921eab05d5942e3a194dfa7357e3"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/receipt_test_launcher.py",
+    "bytes": 5293,
+    "sha256": "5f95a608d6d02ce6467dc05742b726dc2d5a44029319a74017a5ba6f8450f26d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/same_span_identity_fixture.cc",
+    "bytes": 82,
+    "sha256": "963fa94904c2951c7390ab93741e674191a0a2e84bb5592bfbfe86b24491c993"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/specialization_redeclaration_fixture.cc",
+    "bytes": 505,
+    "sha256": "7eaa72b7a66a8f4895cc7d72896038e8ee39f37744ae70241ae0a37161ff4df8"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/static_assert_template_fixture.cc",
+    "bytes": 281,
+    "sha256": "095e53d2d636e1265234eed10803647da6531048d7f084678a3e3db11734cab3"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/worker/v631302_diagnostic_worker_extra_stdout.py",
+    "bytes": 202,
+    "sha256": "98427aab27ad9c62c288e3d4bb43477a811944c718f006ccedb96fe56cee043b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/worker/v631302_diagnostic_worker_profile_v1.py",
+    "bytes": 4131,
+    "sha256": "44eac8c01a7b32846d284c1edb6509fc909d24f196bc059b27e06044cc69c9f2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/worker/v631302_diagnostic_worker_stderr.py",
+    "bytes": 239,
+    "sha256": "a95b45c1e9f186b873ba1799f3d23e74e2b6c4c2fcf4bbce9ddc8f8985305d51"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/worker/v631302_diagnostic_worker_v1.py",
+    "bytes": 609,
+    "sha256": "a5e23fcc73a9d6ab83dbba902f0fb02c919913cf7301f31cb7c7105a48915fa7"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/m0_diagnostic_collector/write_trace_interposer.c",
+    "bytes": 1467,
+    "sha256": "e3d066cfb07a73970346caa2c3a27385eddddbd71f128be9f77483eeb138edff"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/state3_extractor/include_once.h",
+    "bytes": 143,
+    "sha256": "f3f08b4cf90ec8d5f45df6054be305ee4c814a6dec195e5ad631d207b381deac"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/fixtures/evaluation_v6_3_1/state3_extractor/simple.cc",
+    "bytes": 288,
+    "sha256": "2c4e275d1b0888a830fc9f0bb2c7d0fae272ed9273f493c274afffe55aa3ae25"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/Stage1CustodyMountinfoHarness.cpp",
+    "bytes": 11724,
+    "sha256": "95295f0d8b0c76f654c3ced52dc44e3db4901e62cafc4db11dc32a75e25ab04f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/Stage1ExtractionChildGateLinkHarness.cpp",
+    "bytes": 1131,
+    "sha256": "61364dddf2573d07ae623d6dce806001263204383acc2365eaf67a32147df37c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/Stage1PidfdFaultHarness.cpp",
+    "bytes": 5170,
+    "sha256": "eb7a6977249a0247cd16a4b676176bf3ed959374d29a02734b05f12871a78e21"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/Stage1PidfdLifecycleHarness.cpp",
+    "bytes": 6815,
+    "sha256": "4bfd393863e10cf43ba7a0b4774f7131f645cbedd9567bf8acdcd0d1fe2140bf"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/Stage1SeccompFilterHarness.cpp",
+    "bytes": 6420,
+    "sha256": "972d203e2502bb2a24473ae10f2cb236e3fb91a66f49cf58966b0a83c0f90825"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_capture_outcome_harness.cpp",
+    "bytes": 8340,
+    "sha256": "5304a7b2485572f73d3696e0850d7253d7bb1e04fabb8f63aeec582cfc32cd07"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_capture_session_harness.cpp",
+    "bytes": 5135,
+    "sha256": "db22f49d294b568a5088cb88939d000375f66d245e167ea8be272aa6951ea888"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_elf_fixture.cpp",
+    "bytes": 67,
+    "sha256": "710484db2c6e7a76219648804552f467d62b73e186ac5e7bf0a6666d5325f7c1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_elf_metadata_harness.cpp",
+    "bytes": 2781,
+    "sha256": "2d8a11f63be52d6f8a4eb620f4b48f8b1eabb9291c848350815338b497ebb262"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_fd_tracker_harness.cpp",
+    "bytes": 7838,
+    "sha256": "5def9ffe847fa46601f23441341f77540b9ec501d4546080668b717c7d9cca26"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_harness_observer_harness.cpp",
+    "bytes": 3348,
+    "sha256": "f1869c6fd0ab27a0e67f34f1a7cd24913f442ef892dbc50cefd94a3e893e350b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_launch_engine_harness.cpp",
+    "bytes": 41620,
+    "sha256": "c75bb4f22dea832190fc44656898a3c5ba306f806c680038120c545b23b05b54"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_launch_handshake_harness.cpp",
+    "bytes": 2926,
+    "sha256": "18d2a5b5cd49e599c6af48ecdb7e5eb5e15f7967ad4a3926e1b352dc755f2c27"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_launch_tracee.cpp",
+    "bytes": 4258,
+    "sha256": "63e9f38ae5fd19037887bbe5da6de72918f56a7c6ec2da01201150fd2190ff00"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_mount_sandbox_harness.cpp",
+    "bytes": 7560,
+    "sha256": "e42260c56c2e6d11ab4e42fc7e62b4c19e6d2fd9a53973b0ea78c1be9b3acc57"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_native_amendment5_harness.cpp",
+    "bytes": 5312,
+    "sha256": "12da9b64a1831287e872ef14675cc6dfd0cf6b23624cb1120c563f330cebe82c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_open_path_resolver_harness.cpp",
+    "bytes": 3618,
+    "sha256": "54381ef97448d4924e79ae8688ccaf5b64c8d8c12e702da75e72d120d8f6c785"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_pidfd_opened_file_harness.cpp",
+    "bytes": 10561,
+    "sha256": "82a2d5973be3bd35bef074ecb17a969659bde61bfbd3d99ce64435abd397c3ac"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_pipe_pump_harness.cpp",
+    "bytes": 10373,
+    "sha256": "36ad1129e7ee6e500e29b778237cd10d56ebc9bf3a31545e38609c902a197e9b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_prelaunch_context_harness.cpp",
+    "bytes": 18636,
+    "sha256": "deb74e327205bcd0a2aaa246f36ca7513299ab062ff2bc97b5194b431b6bbf22"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_private_bridge_result_harness.cpp",
+    "bytes": 4607,
+    "sha256": "5480fee7c0fe7b180dc43923c4148904f2c316f31b762014f64cee0256be3e5e"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_private_bridge_v3_fixture_harness.cpp",
+    "bytes": 31347,
+    "sha256": "2f5bf6c1271c9d098884348a6c4e756557a37be72312900b6cc1b38f57f9fe04"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_proc_inspector_harness.cpp",
+    "bytes": 13756,
+    "sha256": "9959ae04e811269957ba6d2cea17931d5c2eb617f3e2cdf4b960bf2443286596"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_proc_maps_parser_harness.cpp",
+    "bytes": 2810,
+    "sha256": "ec52010c5c45576e4702ca25ef4da13d2eb4fecf4d87a6f4240d84b45bd78a94"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_receipt_stream_parser_harness.cpp",
+    "bytes": 15082,
+    "sha256": "d3d243c4fdc13070ff136fcb480c49185771a356be4fabc8582a2035b3e5aa23"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_relaxed_boundary_harness/CMakeLists.txt",
+    "bytes": 1469,
+    "sha256": "b51297744dcf5d148e06a46ed20179cf84773f32c51a413b0c054ab76bf2e7f8"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_relaxed_boundary_harness.cpp",
+    "bytes": 6609,
+    "sha256": "7d9a5d9a1c1a617ea1df99ebf4dbd7fa8a04ff15718281ac49e2b4df56a057f3"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_retained_inputs_harness.cpp",
+    "bytes": 6898,
+    "sha256": "d0c3095182003f95927a8f8f307496eecc1eb4cca3585efd51cd6975a72b3ed7"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_runtime_primary_fixture.c",
+    "bytes": 61,
+    "sha256": "de5607a8b130e8916a4272f79b0bdf9a0fe8f4ca07b2e8cb3d98e793c4c2b6b4"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_syscall_pair_tracker_harness.cpp",
+    "bytes": 7513,
+    "sha256": "36b1ea7c329e31246456442fac2a17986f6d8538e8cebd0a97c39fe1745f2db0"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_timeout_harness.cpp",
+    "bytes": 9785,
+    "sha256": "d33d034218aee017ba6eff0636b63e64428296a068c41026af31448237e2f96c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_tracee_memory_harness.cpp",
+    "bytes": 9868,
+    "sha256": "4ce775ac3015ec8f8471631fd3fee287c943ab924cd8628b09ae03b1d267b404"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/native/v631302_workdir_custody_harness.cpp",
+    "bytes": 17373,
+    "sha256": "ff088af2836bc2decc7085bab43d253f286d9652d28474a31e6ad1502ff6647e"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_branch_outcome_bridge_tool.py",
+    "bytes": 1230,
+    "sha256": "6506353dafc17bc340222b95fa8d24de352f4e6af1a26e4243bde799cc808d80"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_build_branch_structural_rows.py",
+    "bytes": 8055,
+    "sha256": "54d6d687f421af54bcbcefc9737441bc6a8bd627bac8db26aa0a833d49fd6010"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_build_cohort_ml_dataset.py",
+    "bytes": 1052,
+    "sha256": "5026424d4c3031dce16150a36eda869e50d96aee960fa22ce55af31913a01749"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_capture_evaluation_v6_3_1_m0_build_lock.py",
+    "bytes": 9362,
+    "sha256": "6716460b8d3e123bed74eccac4ab6f2568c3375c7017d50426b28dfe034f85c9"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_capture_v631302_raw_collector.py",
+    "bytes": 3454,
+    "sha256": "4b9a1a617e219fb3f00f60eeb0da96cab5e692f1ed67f41f9e3eabf0d573b6a5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_engine_oracle.py",
+    "bytes": 4749,
+    "sha256": "32a7bbe72161e78dea222f02e9f60cc8189920c0e8ff2616e606ab6b1ccf4951"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_arena.py",
+    "bytes": 1581,
+    "sha256": "24d5b87cb3730bbed5d195f4586ae072b6900d456c9512672baf63a2dddbb601"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_augmentation.py",
+    "bytes": 2701,
+    "sha256": "ea01ce1661a754f48e08ece60b984ff74c1ab9370871731a50d4b222947dab8c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_branch_outcome.py",
+    "bytes": 10675,
+    "sha256": "fde07f4e66525952a8f3ff603e319e305810befdd912f388a17e23dbc9466853"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_branch_support_v2.py",
+    "bytes": 11153,
+    "sha256": "dba7694f57e281fc96b697a0f8aa56a18b51349d9e2244c57fce743e71b5faac"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_calibration.py",
+    "bytes": 2458,
+    "sha256": "8bf39dc6e1bf969b0d516d7a98d9e973f464eb6eba1bb80998582f6c9e3fcecc"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_candidate_outcome.py",
+    "bytes": 2221,
+    "sha256": "01f04afb1d3175a8965f8c89ef626e9dc803c8ec0d784d47cd38428e5117020b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_catalog_semantics.py",
+    "bytes": 7378,
+    "sha256": "75c0de02d4b3717e622279875de12d3a30e9febb174d2c4d62a91ecc3b33528f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_cohort.py",
+    "bytes": 4290,
+    "sha256": "34dc1b35094d5678547490d7b2a9057891565c573b040d80aa1074b227bce6c5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_expectiminimax.py",
+    "bytes": 4600,
+    "sha256": "0961232fef5442ebb7f9c64de02f4a046bec7bc163b3658cd2da838797f2c1a5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_gateway.py",
+    "bytes": 1422,
+    "sha256": "3e9b17719735c7ded2a7ce3740df9477b807ee0edaa31b878912a68e513ae586"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_native_adapter.py",
+    "bytes": 3791,
+    "sha256": "cec15a754d4928873dd0689a11ed63a4218ca8b1d9c8d83ea7be76ac9372896c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_native_tree.py",
+    "bytes": 1280,
+    "sha256": "5f12b22249f17645b80dfb7b16bed2cf792bf97ebe9906a2a0d7cdec76f47ab9"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_option_forest.py",
+    "bytes": 883,
+    "sha256": "c5a7d1a9ffe2367135733db6d419c95507d25b559caf24c5b45ea82eaccf2279"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_package.py",
+    "bytes": 1076,
+    "sha256": "8e058741e4ba885b25644cc3e6320101accaba6a350b38f86e7049eca5a7f28e"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_promotion.py",
+    "bytes": 2840,
+    "sha256": "7b4fb9c0d9941aa89fbc012709d864a5efe9b765e1923708f693c0562adb9d82"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_prospective_shadow.py",
+    "bytes": 9440,
+    "sha256": "dd6515c90b6a70e3154a24eb6b32f7748476cbcc53c1f44cfbfeef4b3d4d4e87"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_public_transfer.py",
+    "bytes": 2712,
+    "sha256": "961ab6369c953ebb02ab8d7bb906aa671ce9e592a10311a26624334d26cba9af"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_replay.py",
+    "bytes": 1116,
+    "sha256": "5b6a086b2999a377560d36739c768002d236cab1b48896eba6a35d8a50450c5a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_safety_burnin.py",
+    "bytes": 1556,
+    "sha256": "be868fc884f19a987defad2b7205277c52a2470f1649243358873fc6f181d3d1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_search_core.py",
+    "bytes": 3550,
+    "sha256": "67a0085bac74d907ac8029f4103630521f65a4315fb5f3ef7f5e2e667f541f3c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_seeded_arena.py",
+    "bytes": 1292,
+    "sha256": "988673d246e7dbfd72a6abf2aa2fe1eb862cc5de6b957a1a32717d4c0b3229bc"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_shadow_chronology.py",
+    "bytes": 4220,
+    "sha256": "e6179953bacdbe4a4d3d81acd21fa0ab3be1bfb8bf7312370b466b7186da60ba"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_stage_guard.py",
+    "bytes": 4156,
+    "sha256": "b8868ce09b374be709d164b6f68fcbd5faed3e3b4e70819d8b741dc76736bd19"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_statistics.py",
+    "bytes": 3066,
+    "sha256": "d4352ab1d2964e0008180ad605c21470a51169df5d356d6408c1f803e468dd0b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_surrogate.py",
+    "bytes": 2413,
+    "sha256": "9afbf7951bbb79fd28b926525c7a75525e53aff569ff67a58146f000ce80b820"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_transfer_validation.py",
+    "bytes": 3463,
+    "sha256": "ea87711bc729b68f643a0a93967c04cfb333e0bf99220edbea5b3ceef88b7e60"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_value_head.py",
+    "bytes": 631,
+    "sha256": "0c81f8e00d48a51529f0db74998ecc04fd69046e65d1847e0c7687490cefd4ad"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v2_world_bank.py",
+    "bytes": 5211,
+    "sha256": "b9bae346f5f1ae80071d803e51d66dedd3082c561393f8fcd9f93d80fdd2e472"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v3_promotion.py",
+    "bytes": 21503,
+    "sha256": "f1859b5fac66b9c9ac67825de92a0d17cdd85d029f93e766c36493b7240b5a36"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_1_authorization.py",
+    "bytes": 12518,
+    "sha256": "5a568f70feaca4ad6ed1a86a78c0885d411d0e326ca670882335b3400c92cc73"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_1_beacon.py",
+    "bytes": 7752,
+    "sha256": "2cef6ea6552da253b436910d24639d54ee17773ec4ee37522f609c00f5d46b18"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_1_chronology.py",
+    "bytes": 19266,
+    "sha256": "eefdf2fb48c04cc72da620949fd7cc10901196d7d9d01869d5cada7067582bbd"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_1_composer.py",
+    "bytes": 19621,
+    "sha256": "08a7cd1c5a0bbc64ec2c980f9eb73a51c8106344d4eedfe63d52451d8ef40ab7"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_1_evidence_budget.py",
+    "bytes": 3612,
+    "sha256": "cdc6965310dae2a5bfb5fdd8d68896fe37e74a6b584ae1f84c6389758b9efd38"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_1_executor.py",
+    "bytes": 17001,
+    "sha256": "9c1ef7715ad44ca48de4918d6862299a85cefa4fa12c03d6044f2671ae9f787c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_1_kaggle_evidence.py",
+    "bytes": 12197,
+    "sha256": "d686c51dabfa474364413303a9e74717da1c1ca525bcfd142a3dc81955505942"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_1_prediction.py",
+    "bytes": 10447,
+    "sha256": "d0aa1386be6f257d948e1f071700ac6cb5e7ab8cd851ff8ac0c688ceec5d7fba"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_1_protocol.py",
+    "bytes": 9359,
+    "sha256": "57b868d020aed9ef6328181b279e92f85116e7849442e2ad115a1aa24c742f62"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_1_statistics.py",
+    "bytes": 6304,
+    "sha256": "b3844845d5be28bc2334d2126e8af0832875ac77f97d772e08c4a3726c16cc7d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_1_timestamping.py",
+    "bytes": 3332,
+    "sha256": "7398919a014d44b7941ce36dc053d6a509bb77618b82df30cd2fb59fd1862a6c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_analysis_contract.py",
+    "bytes": 3750,
+    "sha256": "79949fe49cc61bf8bf74f7dcb6df02ff3a94fb9a5263f81c8a72ce4b606b58ff"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_arm_receipt.py",
+    "bytes": 6881,
+    "sha256": "4187dacea8b1eed883c5ce77ab8c9e359b6bd8fdebe1816946543dfcb05b7c60"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_campaign_composer.py",
+    "bytes": 19158,
+    "sha256": "d31e1e6e07630df8cac3d85f3c411df63d536838d49306911be8961a0287ca35"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_campaign_journal.py",
+    "bytes": 19926,
+    "sha256": "652929318e319164c28db4d35af313556186042fd1973d5964b9bdf784528c86"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_campaign_protocol.py",
+    "bytes": 23778,
+    "sha256": "3a76cf0901fd97657f2cad248c19d7de235a1f7dc8b44882ae94c08753197d3c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_campaign_runtime.py",
+    "bytes": 9282,
+    "sha256": "ff8267dc290094833c65a6f1ea5fd6e96368a1655873723d09c80742269cf8d7"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_candidate_binding.py",
+    "bytes": 8384,
+    "sha256": "5b6de5bc2a71d517813a160bbd6560e225a0beda0e006dac10cda1ec2a85d695"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_container_protocol.py",
+    "bytes": 6385,
+    "sha256": "6f40dcf5650c8cf642884092b2e775883920a60ab4bf671cffcd0eb37807b74d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_contrast_protocol.py",
+    "bytes": 4304,
+    "sha256": "b3901a28df8c45be3d0018e350a04ef7cee0194a3be16aeb0b1d244a355ced8f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_execution_plan.py",
+    "bytes": 13615,
+    "sha256": "9d60373e5ca925117d4eb24c3d2eadd1567789a86b3572b7bd6de8ccd76dca82"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_local_panel.py",
+    "bytes": 8705,
+    "sha256": "57f07f86142249715d0f3fb42c3bf5702c38af99a6024c3dd095b94cb3beff75"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_opponent_roster.py",
+    "bytes": 7048,
+    "sha256": "ec3d4c5abf0226bc7fe02a33fb6d1ac97575ce907b955efd0546594089d63a18"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_parent_arm_claim.py",
+    "bytes": 7010,
+    "sha256": "2ca6c29f1ac4a88d99a4889448adb9f985fae9a056a62f428907e7c1b73a2f5a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_population_readiness.py",
+    "bytes": 16150,
+    "sha256": "646ebc7c0cab6dd02a3a2fd99999c95d48a63b4cca27e17696338ad8de79e488"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_runtime_binding.py",
+    "bytes": 2329,
+    "sha256": "fbe4291fd6b01fd7241102776ce58a8d0d0177d04c62f8df40648f1ce475f855"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_sandbox_binding.py",
+    "bytes": 5500,
+    "sha256": "92786f537f6ea69d1a96cdcd09e39675f6029d787d575c076452dc6baec1acde"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_sandbox_protocol.py",
+    "bytes": 11110,
+    "sha256": "47c39d01acd04e040dff53d04d6fe297008baa1c0ae6af56d7a46c02e7f4fd45"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_scientific_audit.py",
+    "bytes": 4861,
+    "sha256": "a4f1e39ef8375f6d33dfbb9bfc6bf616e982b8046459dc52ed57633da4acb2fc"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_simulation_design.py",
+    "bytes": 9266,
+    "sha256": "db43a7e06d1e62f4c86c962d9eb8a36150722640d946e12b2ff5934fbf149a70"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_training_support.py",
+    "bytes": 5573,
+    "sha256": "eeac820f5e068a825d7c9f530e685673b8740763030782c88b508dad5d6232fb"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_2_witness_journal.py",
+    "bytes": 13208,
+    "sha256": "36b887a5f2c2956204c21d5716338ee470156f068b19b9e7d040f3f4e4f2676d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_chronology.py",
+    "bytes": 5565,
+    "sha256": "3f1f2dbe8077ebda1d595957ad013c6e033998ecb7118a92eee7a73dc89dad00"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_design.py",
+    "bytes": 6231,
+    "sha256": "fa175b6b9a4300f0af6c52c826af155bbd8818690e86bc87cd3b6f2399a880b9"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_evidence.py",
+    "bytes": 5489,
+    "sha256": "3b3f999fdf6888f1719b9df2ee29e9528d8c3dba124bf90ded0d2a52703c7cbb"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_lineage.py",
+    "bytes": 9366,
+    "sha256": "3e5c3d76bbe4c2838568609c7cbf284df16071da0ea4519ae3d0e968a20c2ae2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_metrics.py",
+    "bytes": 8500,
+    "sha256": "3189facb3877992815f0de66ed7f38bfa68e5075b04a94044da9a7678e281e1d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_predictor.py",
+    "bytes": 7542,
+    "sha256": "07ba113adfcaadad66f521c698e74590b9fd37fe0cb1714a5ddf60201160bc28"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_protocol.py",
+    "bytes": 6731,
+    "sha256": "2ab5f0d3eb8150f7ae89fb3c1e65f43a8c23060587580c6872c6537baf8cc6d8"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_selector.py",
+    "bytes": 10485,
+    "sha256": "4a952f4a61e582e191a32157fbf50c4c986a071e2c8079bdc16e55ee1d4d0c2d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v4_simulation.py",
+    "bytes": 4269,
+    "sha256": "8a986cabdad982cdd697e8598099be79faccbbae8f1b9c63ded7c2fb30606d7b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_blind_activation.py",
+    "bytes": 53624,
+    "sha256": "2b8284ec4978e3cc193f362d0f6255345fa541c95ea6723196e2bbc9d4821c46"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_blind_release.py",
+    "bytes": 11000,
+    "sha256": "4e4158416f762f8c95a79d9ea72066e02207c3e64a8f427a6b8f9d5da1657856"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_claim_freeze.py",
+    "bytes": 15083,
+    "sha256": "08b6b179c352f060f8902c383026fa85cbd1b0b46d3ce975a81109c81d6f30d5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_cross_engine.py",
+    "bytes": 75201,
+    "sha256": "703ff43bce4555d7feba5c9c09e57c8cd622c1b849a03661be8662734800e9dd"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_development_evidence.py",
+    "bytes": 27731,
+    "sha256": "0c53d5e5af69c8cdba2a716cff914b4ee6ad687059dce556bc7da09016be9303"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_engine_capability.py",
+    "bytes": 44445,
+    "sha256": "c5b83fb6e9b3efb64c7e85af2637395007d541d088ee5a7accd80889f16fc94b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_envelope.py",
+    "bytes": 9185,
+    "sha256": "ff6e8fbbfd08547608c23cff7bf06b52ed6a373c1d637bdd413cf56b13838bc9"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_exact_gate.py",
+    "bytes": 7265,
+    "sha256": "0e88ea463db7ac2e10a96ca4bc011370555ca5db21d689384e701ef804572670"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_exact_gate_v2.py",
+    "bytes": 26442,
+    "sha256": "52795b11976c09c7e196989f2ac538814c5637fa0ff576f60c605f0f79c77c09"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_feasibility.py",
+    "bytes": 8234,
+    "sha256": "411b1db1bcfbc17068c3fc127870845b3cfd4d2b070dba6139f37c3295b5f36d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_gate_dag.py",
+    "bytes": 14072,
+    "sha256": "67d059167882879077cdbf2c80f0255829bd0e32b7f5afac794cb95a947e1414"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_governance.py",
+    "bytes": 61460,
+    "sha256": "4974c72fb486f6f6db6a2f05f19b51ac688583843f4b908336e335019762b0dd"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_host_census.py",
+    "bytes": 34154,
+    "sha256": "41ea658edd3faaab3051d12dbdbadaf8ad90222033f8830cd9cc77269b150b35"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_hosted_dev_custody.py",
+    "bytes": 34462,
+    "sha256": "f95c98cfd324d60b1c4efa889e7410cef6bb5cd084251ea85183ce5c0cfceb71"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_owned_pair_pilot.py",
+    "bytes": 19347,
+    "sha256": "df22b11f26b3a3c4c5849cd8634fc287cd50751564c1767620e1a4f5ca4efc5a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_paired_evidence_preflight.py",
+    "bytes": 17816,
+    "sha256": "0bf8a8934dc0c8f8784c87971cf6745771872e35108086cdf6866804a495adaf"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_population_readiness.py",
+    "bytes": 4115,
+    "sha256": "154b27b08195df0bae8b7ae26c37af8e923efd4113278ba08dd4800f4ac87643"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_production_candidate.py",
+    "bytes": 32530,
+    "sha256": "d6a99ea32b0010427078a88a52e789aa855f043027a0aa31a5314221ffd373a5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_production_release.py",
+    "bytes": 25691,
+    "sha256": "902332811d13212e4a8075b8f7ec31217ac7e80284bdd62939ead2bd961d7253"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_prospective_transfer.py",
+    "bytes": 11732,
+    "sha256": "48ae3bdb897b39bfb09554005e956fba478fc1a5374bd08e50c13b246b2c69de"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_rebuild_custody.py",
+    "bytes": 21693,
+    "sha256": "d5a64c87152f3ee5809b98b03ac831aea11ad8c81a2b0b46475c979c0bacbb2f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_recruitment.py",
+    "bytes": 18300,
+    "sha256": "7ebf2549fe27625eab94c651120354c31a4ea72d106364af1528d79fe3147ee4"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_recursive_verifier.py",
+    "bytes": 18939,
+    "sha256": "75c05b140ccf0a1383aa701cb277c7d6657074ac0df5fe18b6c0b7076ebd2834"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_scenario_evidence.py",
+    "bytes": 21495,
+    "sha256": "e2486519e0c511eef17eaf12511fb298e8a91d547faabfd84db9c419dfa2b34a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_statistics.py",
+    "bytes": 5380,
+    "sha256": "491fefcf8c15a2dfa10276baa83c75f1c8042e98316f904969aa28034021e91a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_1_status.py",
+    "bytes": 3728,
+    "sha256": "9f73c57f4323b1d18b025238f05e1c7a5d05b1d64358603194b7f52662bc7e4b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_ancestry.py",
+    "bytes": 11309,
+    "sha256": "30cc165870ddf18b38e1f2adc95d7d3356f9e23ee2403ca94ed1319e9ad940ce"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_binding.py",
+    "bytes": 3242,
+    "sha256": "fa01b58fe10e018ff8c294c4dbd0fa82b7957ecfbb151d1ce9443148871e6884"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_campaign_anchor.py",
+    "bytes": 6527,
+    "sha256": "337c9b74cba0a03d8200ef055860878c559f54f00a017109eb50b23f8a359ea7"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_charter.py",
+    "bytes": 2572,
+    "sha256": "6f076d1653dd8250c8ed7f53e24e77a78c183165dba520a4a28049d63f45d591"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_cohort.py",
+    "bytes": 24914,
+    "sha256": "fdc79c2b85c2107eb1b891b25641444b9a02c11b8184dc0018bc1f2b072fc419"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_current_artifacts.py",
+    "bytes": 1472,
+    "sha256": "be69152e01154ed530c80727050c9d4c824945929d683c3ec5cb191476869564"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_custody_anchor.py",
+    "bytes": 11087,
+    "sha256": "4585b95675906cb17ec9796790588915f431fbb23041bd28af77f21633fb12a8"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_development_evidence.py",
+    "bytes": 10300,
+    "sha256": "15cbd8e6de13b81c9f338d041756bf9d097b632c0e06f6e2dce8003ac034bb41"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_development_fit.py",
+    "bytes": 9231,
+    "sha256": "0626d6260276a2a8a1f31214dd033f203b936969e260508dec1bfd0fb8fdf3a1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_engine_capabilities.py",
+    "bytes": 8569,
+    "sha256": "8d6e17844050813b0ada6a76363871b8e9aacb1c253f9c9194cf17f7e28f0016"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_engine_evidence.py",
+    "bytes": 11303,
+    "sha256": "83710f55fbe0d514c273522ac9e6edbc5863f4881f6cd4ba6870867a14ecb05d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_evidence_bound_gate.py",
+    "bytes": 8995,
+    "sha256": "3f9b588c4f651f7a67e99e6d87590094933e509b333bd458f141219f403c1c9d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_firewall.py",
+    "bytes": 7139,
+    "sha256": "04b92c363ff281475e6381b34794e9cb53a7c3906aac3f0c237ecadae874a758"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_gates.py",
+    "bytes": 19497,
+    "sha256": "4230adb37d39277aed1a8a2415cf9811208da29ce5031e5835e0323fc7a1dd02"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_host_evidence.py",
+    "bytes": 15255,
+    "sha256": "1e3ba36b4e92492ab31ed32f3e9629c1141616171f58698b46cd36d6eb19dc1f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_implementation_binding.py",
+    "bytes": 6727,
+    "sha256": "f3a6339f45c9afdee0b226330e8869b0b83d117ca5e97cd8cbed560f931ed39c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_model.py",
+    "bytes": 11026,
+    "sha256": "02c5b847583de6e1f196d04bf18d1c967471cdd98db43d04de78e61808a166bd"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_openssl_runtime.py",
+    "bytes": 1906,
+    "sha256": "6a61c299f047415af3f0614aa1174170ffc91864e3f94e3065fd338d5764317d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_provenance_evidence.py",
+    "bytes": 10771,
+    "sha256": "64101cd544fc5f04c4aef7fb6856a67c10afb6e9ed556adbb702029cc961bfd5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_safety_evidence.py",
+    "bytes": 7671,
+    "sha256": "ca38f44341a87104645cdf38bd14cafcc8d150d7c7e7f4a7e2c1a95c6321ed8e"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_status.py",
+    "bytes": 3306,
+    "sha256": "e977c729d967cf653c96de9c4c526473d76c1b14eb95d2046b7599dce9883655"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_transfer.py",
+    "bytes": 7278,
+    "sha256": "4076fc8b9e354a797103dbe6f7ce8c41798d9a8361f7c5916f09fb818be7d63d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v5_trust_roots.py",
+    "bytes": 4827,
+    "sha256": "4b46875396a5406936973a62687e68dc1156926b9ac391871568b50821782d03"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_2_3_recruitment_cli.py",
+    "bytes": 5370,
+    "sha256": "e681ae265f410e2943ba2f4f18851148ddc6dee7c18cbed20160eed35900309d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_2_4_release_cli.py",
+    "bytes": 6113,
+    "sha256": "2a0d029db190e18119ea4ae500f8e0e6aaf1b0aa37e323bbca797693a52c6af2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_2_6_provisioning_cli.py",
+    "bytes": 8244,
+    "sha256": "d924faaa2d8dd799bab617182d0a03027de134eb72b5b7e12c2e12a2b5dc19d5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_2_6_release_cli.py",
+    "bytes": 6085,
+    "sha256": "e5e54173590eeae22ced397c959f6da333fa430e4baf260f7f8960f91eff2b35"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_2_attestation_v623.py",
+    "bytes": 29546,
+    "sha256": "33cb9ad05e12dacfa1cd42ee120f7e2679fa4ee4810a1e163b61f51bf18b0983"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_2_executor.py",
+    "bytes": 10511,
+    "sha256": "413323104d3ba057acef058731914ecfb4095ddc4867061b9399512b8a305aa5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_2_integration_v622.py",
+    "bytes": 11126,
+    "sha256": "9d4cd584283dc7890f8512f916cd252fa89968a8189541e396ae43af833d3c1f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_2_protocol.py",
+    "bytes": 8333,
+    "sha256": "7bad41d44463b52820457ecbb1d2274b0b0d2c28310c9d503680ac31c3654781"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_2_provisioning_v626.py",
+    "bytes": 26127,
+    "sha256": "d97da7257ba52b6a664d6e68f71931d54ad32be6a4aa001013e684e31f382f5c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_2_release_v624.py",
+    "bytes": 52372,
+    "sha256": "cf3b75c18b6d94cbb17550a47f52c32ca4a2bcc0c7918188ac0019ac643323d5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_2_release_v624_retired.py",
+    "bytes": 813,
+    "sha256": "c76464f7b05cefa76754b8a3748142a9b4a06637d5d39361a85987fea556ec80"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_2_release_v626.py",
+    "bytes": 50666,
+    "sha256": "ae9b8c332765113a217d69d2762368177e317e2842c058cafc737137750c3e24"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_2_verifier.py",
+    "bytes": 8346,
+    "sha256": "51e681abe91e2e48235bd87064d1c6965f17f64a6e31baf322a5f8180252b852"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_assignment.py",
+    "bytes": 13199,
+    "sha256": "b25c2eac18c1bb0d8915727203e61443b378545805d52f6d9341526439beebc6"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_canonical_trace_codec.py",
+    "bytes": 4456,
+    "sha256": "be3e8c5a45fb0a929a82fbf3512971bad428f97a1b91e8abe834057ff92a269a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_canonical_trace_replay.py",
+    "bytes": 18522,
+    "sha256": "c364cb1c3a70c02fa98303d77cb282474a080ea23346cd5f139128406a9a494b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_namespace_v1.py",
+    "bytes": 10663,
+    "sha256": "8673f9416b0057a3f2fa2e334abebc5c31d916198496eb4691502e6e118a1e89"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2.py",
+    "bytes": 18454,
+    "sha256": "b9f958e1371773099d103b128f99a87f2e4e63ac23883c4ed9e9436fce010a22"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_assembler.py",
+    "bytes": 33814,
+    "sha256": "07353e513800f81a095ab2f5d466aea04c8db24b13985b34db0700b94947e61a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_capture_session.py",
+    "bytes": 3971,
+    "sha256": "0b4b06cf590fbd986d88501a0a1317ded51d3019418f63ff04f2cb1c764f4824"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_elf_metadata.py",
+    "bytes": 9142,
+    "sha256": "54abeecf7ad728a082422e861b9136875db8867295b8d7f002479c505d81f9ee"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_fd_tracker.py",
+    "bytes": 2005,
+    "sha256": "27e6de4bf1fbd5e912656319358233ced9c6ef7dfcfecf0a95a96d4c7dbe10e8"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_harness_observer.py",
+    "bytes": 5742,
+    "sha256": "4d7abb6cca2f58914bb6280aa396fa2675061ac8e3e4d318db6ce40bc9b95e80"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_launch_engine.py",
+    "bytes": 9243,
+    "sha256": "93e22e9955c7d964f4ea811d77819a64134923098c5b74b7a0fba8d3049e7679"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_launch_handshake.py",
+    "bytes": 2020,
+    "sha256": "e46d33628298b8554c3cab16e7777d3577bd1b66255e7483725347de7a9be886"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_manifest_v1.py",
+    "bytes": 7918,
+    "sha256": "bfdca1355f4297926fb2599e56332d43041496a5d234a67cddfaa05144791f73"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_mount_sandbox.py",
+    "bytes": 3471,
+    "sha256": "fa623ac05e89fc4ba0ac1cd1cff8621b86128c10484acb51c7ceadc6ebc7c975"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_native_amendment5.py",
+    "bytes": 8382,
+    "sha256": "bf22e5a6762334514625d8f9cbae2f2fd313f712d4e632be7364c39709950205"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_native_amendment5_bridge.py",
+    "bytes": 6515,
+    "sha256": "c54eeef2d179cb0defec3f82fc5ecc17cd6cadd5e979b95ca9fcc5f94642d1d1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_native_handoff_v1.py",
+    "bytes": 19776,
+    "sha256": "6aa6261706527aca06f2a4fd359c6486774a9590722e441eb4ab26cb290036e2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_native_prelaunch_handoff.py",
+    "bytes": 8876,
+    "sha256": "60c179e77c7d56273255ec456b64f1921c2761e486ed9dd5c3413261c72c10d2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_open_path_resolver.py",
+    "bytes": 2063,
+    "sha256": "bc457e1ac5cdfb81682e04dd0bc9ab46d9800be4e85458ea80b92561d5bde7a2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_outcome.py",
+    "bytes": 2989,
+    "sha256": "d8f9b937595ab3ca78b22b41bef234bfbe124b950d90a1187ba049820cc4869b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_pidfd_opened_file.py",
+    "bytes": 3292,
+    "sha256": "4fc7af8dc81bdf242690c2a0f532e6df628f19742187843544dc44b28a51d266"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_pipe_pump.py",
+    "bytes": 1997,
+    "sha256": "7f9c8af3e0506d41a0b23c36e0d01ecead960b790f38a16c97eb4b65911da3cc"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_prelaunch_context.py",
+    "bytes": 3776,
+    "sha256": "2ad368b78546e7c5cc4046b9bbcb0dfd76fbad812ce26105ba0b1f37972b0bfe"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_private_bridge_result.py",
+    "bytes": 2457,
+    "sha256": "fa920627c2004530c3b6dbd27adb00a9734a0956f9373736881998fe624ef65b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_private_bridge_v3_parity.py",
+    "bytes": 11802,
+    "sha256": "518fb644fa7fa712b04d6f280587d06444bb7154b5b1e9c9a87f01446ada4bb1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_proc_inspector.py",
+    "bytes": 3979,
+    "sha256": "c6a9486819511f419c13a8428ff34f330025092b418833f5c0297aed539a7a7a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_proc_maps_parser.py",
+    "bytes": 3210,
+    "sha256": "d09b81794b622461a1b279a8b8d85767b59b0cf47abe4690edfd69e6799d392d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_receipt_stream_parser.py",
+    "bytes": 3965,
+    "sha256": "5f97597b135922911055bb04a48095af5cef81d4e12e0675fb8c817695920934"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_retained_inputs.py",
+    "bytes": 3711,
+    "sha256": "d46a0fef2439456f84d0483c5d97a6acb49cc5af1099da3c6ce18edc6767407f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_supervisor_transport.py",
+    "bytes": 12512,
+    "sha256": "8a8f63285d374b3a1ef1cc689ec8c99de58c1057b2369c58e48ae66c81eb9c8d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_syscall_pair_tracker.py",
+    "bytes": 2074,
+    "sha256": "7e56624fb6b64826ef47d0cb2f499025449158e563b9cb0960e175468eb160f9"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_timeout.py",
+    "bytes": 3108,
+    "sha256": "41be3e2332b3328f5a1666542fcaa3e6d2d104670a86a7683b9293562767b912"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_tracee_memory.py",
+    "bytes": 2801,
+    "sha256": "5d37eae6cab829a1792757788113dd86220fbca7a9d9db1fca9dbfef38ec41f2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_capture_v2_workdir_custody.py",
+    "bytes": 3651,
+    "sha256": "56f5454b628b4db1106530e9460a91b35ab9e9d8cd76a0dd13f083138cfa892c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_eir_prebinding.py",
+    "bytes": 25648,
+    "sha256": "4f3b3686a30c15fd89345718655a845bab2f39086a84b10b416fd430de4add53"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_eir_runtime_bundle.py",
+    "bytes": 14649,
+    "sha256": "f518f7186118dfbb6d497085f8ab59f266d1482d2639e050fd33cd47cacaf8ee"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_eir_state3_namespace.py",
+    "bytes": 11170,
+    "sha256": "e989755e0a88e5d779bdcb43bfdeeef3f8c3d7db5d6a92bb2118ad7cf8cfb0ea"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_eir_state3_semantics.py",
+    "bytes": 29298,
+    "sha256": "6e255fdffbd0a987f1e249832c9095b0497314e4726c907e1e0f9a7ebe81059a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_entropy_completeness.py",
+    "bytes": 7448,
+    "sha256": "cb1f6abc9e7e4d95b67514fb745e013ac095ea10b145e9ec6bccd57c487c0324"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_entropy_evidence_collector.py",
+    "bytes": 9617,
+    "sha256": "50e133e1786d65c647912c2b5f8444e8fad9f7c9ae3c63f60a3c712e092af111"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_entropy_mutation_suite.py",
+    "bytes": 12933,
+    "sha256": "ff93d985578df934b6395603086decba9e48de8db38536d9038d7dfe8889fb2b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_entropy_real_collection.py",
+    "bytes": 8416,
+    "sha256": "e8ab83e9afbc51a6b35c535d0c826d172e1658be3c32e1f61fe60aa69f637491"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_entropy_runtime_sandbox.py",
+    "bytes": 13466,
+    "sha256": "2f008b32aed2ff73ff4be42bf581349834559482add24ebcfe0bd1751576749b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_entropy_static_closure.py",
+    "bytes": 19583,
+    "sha256": "9f90636f905b0213a1a7a9b3558eeb3daec424ebf683bab1152d38721f6803a6"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_exact_bridge.py",
+    "bytes": 7447,
+    "sha256": "14551d2d5c3f0886065dc59d71f3f20d618576be6391d666809c9fdb63a0bda8"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_exact_statistics.py",
+    "bytes": 18264,
+    "sha256": "eef5d9c5f568d08099b4779cd42c0f5572118fc98ec3710c6e37aa4ac8f67d50"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_hosted_custody.py",
+    "bytes": 24522,
+    "sha256": "a6cae0cc5e5d05a05c424930555e251b0b21b0473dc78aead8b2b10752962c7a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_launch_gate_assembly_source.py",
+    "bytes": 10346,
+    "sha256": "fe032a72ea00a2bc55040f601fc8011ce5fc3f0145bd76839ecbcf81bf42684c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_launch_gate_decoder_manifest_v1.py",
+    "bytes": 7270,
+    "sha256": "b92c66fe24ca249de379f89c446d74cd3b5481a44ebc15b600bf569724c8c78b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_launch_gate_dependency_manifest_v1.py",
+    "bytes": 12323,
+    "sha256": "243a848df09422e77484827e95bb965c00880827b15a271fbbc90775a3da0099"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_launch_gate_dual_decoder_integration.py",
+    "bytes": 6777,
+    "sha256": "8ee0252fcd0cc1cecc37f5f2fd1064d783d5fc8c66b140cbddd87049f49ef793"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_launch_gate_elf.py",
+    "bytes": 11753,
+    "sha256": "9c3f03f10db117c1288365a269778f4525018682be84d795b1ab0b9971470f10"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_launch_gate_llvm_mc_decoder.py",
+    "bytes": 8550,
+    "sha256": "d0d7a7894d5ee214976c9500de0f8228bcb52b6fb98dd7f781e84fbc383621ec"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_launch_gate_restricted_x86_decoder.py",
+    "bytes": 8663,
+    "sha256": "d8dc79ec73c8611a13841142a14e4f4c83b55ba81fa9092c05c258aaf465766f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_launch_gate_stage1_custody_receipt.py",
+    "bytes": 13320,
+    "sha256": "273c552f637741af58c552faede42561afc160d53f73b514a4f03a01224756a3"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_launch_gate_stage1_extraction.py",
+    "bytes": 25268,
+    "sha256": "81b5245e2555c6e7347e4be1d86435567bd87701f60728afd2019a927e3a0b88"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_launch_gate_stage1_packer.py",
+    "bytes": 4182,
+    "sha256": "fae03ee7bbbb4151ee3d2b8d2a982dc228a0a2ed708a4c1dc62c1ea35f139194"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_launch_gate_stage1_profile.py",
+    "bytes": 12409,
+    "sha256": "3abc4a3dea1651893b1d6be638bd45db62efb34b9469532fbd30444fb89917f8"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_launch_gate_stage1_validation.py",
+    "bytes": 16445,
+    "sha256": "d362aa1e3e9c1cf4888a753117349c31f10c5eeb3253e1e579bd3055c516211f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_live_crypto.py",
+    "bytes": 24696,
+    "sha256": "4190ea8cb7f14de90de62e215b7a304ce5e9f65ac0a14656e4e1100b0b2b0a25"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_local_panel.py",
+    "bytes": 20296,
+    "sha256": "ff776587d718ea549eb640c0c62719c75159e46619cb99243b363be7a7e6d3fc"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_m0_diagnostic_census.py",
+    "bytes": 31283,
+    "sha256": "6a8f3a8c9b3e19885f6f040cab75ef90a9fa11cd437eedd0f5430845a54beed2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_m0_diagnostic_collector.py",
+    "bytes": 63838,
+    "sha256": "a1d8bef8e3e25b8982221351c8ac901a3132d9010cf392386341b320e47d8be3"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_m0_diagnostic_primitives.py",
+    "bytes": 5618,
+    "sha256": "dea17fb3e0966ed5a59026394139f4e8950a6f4974796de185f15eff7cc1f3d1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_m0_diagnostic_relaxed_fixture.py",
+    "bytes": 28692,
+    "sha256": "ce7b28a3b45d4fef9cd1d7efd1d5eda3eb29c726a96849f4ff9b50fca4515133"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_m0_diagnostic_worker.py",
+    "bytes": 14902,
+    "sha256": "a670acf0b57640e6182106d60e90390cd4370cd734bfe5f1b2fff6b78b4793fc"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_m0_inventory.py",
+    "bytes": 9816,
+    "sha256": "f290b27baadbdeec824477b5220836320e47c6298315980c99be334e355c0e1a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_m0_worker_boundary.py",
+    "bytes": 19374,
+    "sha256": "afe41632dc402aadc4d53eda5dace04132ed6fc3dfe9117cdfc997affcb75ad2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_native_631302_durable.py",
+    "bytes": 17684,
+    "sha256": "2bb01f14db9318a2be671ef679d6e138cf12b98c6cd246e66118b1b3d64369a1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_native_631302_durable_sink.py",
+    "bytes": 9428,
+    "sha256": "ca81a7cb8f183720ad7d543235df92088be15520823d3abe046c5f8441da6010"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_native_631302_probe.py",
+    "bytes": 24006,
+    "sha256": "fb7e631e15d2900c97cadbe45d61e274e4364c8f5d4fa6a819da34ebe89ba82d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_native_631302_session.py",
+    "bytes": 12003,
+    "sha256": "83bf653e48804f023becc246e78fb22324eba89a947316ed56b113d92a38fe7d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_native_cbor_writer.py",
+    "bytes": 7151,
+    "sha256": "31f64f64b948f56962ae95d5d305c66fbd952a8cce14978e7b288a95fd30188d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_native_extractor_m0.py",
+    "bytes": 35659,
+    "sha256": "72fe643c40f8860b89c2ac3f4c758c751bcaeb2eace57888598daa2b6dd9eabb"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_native_observation.py",
+    "bytes": 9986,
+    "sha256": "0cf3833cfc155651ecd46f6fdd65e80d2e59f04cbbd30deba5ee15a0f8ed4a67"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_permit.py",
+    "bytes": 26659,
+    "sha256": "68993e12da64569e86156e1b686f7b10d66a42751af7115f833cfff210270fe7"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_policy.py",
+    "bytes": 10354,
+    "sha256": "80ec9454f55ca89097bd4e690611784e5ded2d2a56d2e447a575a5c1bcf9f036"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_population.py",
+    "bytes": 31611,
+    "sha256": "f3204d96f36b91a304b0bb17deb8da6b4efdce4777156017f7acf29170874d18"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_protocol_retirement.py",
+    "bytes": 3040,
+    "sha256": "cf2f0a8f809b456dc8307739dff2508942dd161c217e2b8310f70704eae02de8"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_rng_branch_trace.py",
+    "bytes": 11120,
+    "sha256": "74644bfd7afaa40b3c863b57e44906cb95fe1d9f92a20e08d15aaaeec4ba140c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_rng_gateway.py",
+    "bytes": 12282,
+    "sha256": "517adc54dd6d4330f3774d406c48de9b97b4bb3f307db0f00523a7fafc0de792"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_rng_seed_custody.py",
+    "bytes": 8160,
+    "sha256": "7bf369689a21ec961ee12b53c8cde734acc4cf240949a9f31a49777796dd9b4c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_rng_seed_protocol.py",
+    "bytes": 3052,
+    "sha256": "c3c834cd34674dc3a0c1008e52dffb367cf28ab1c36f201a6c41dbceeb1440b2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_stage1_extraction_child_gate.py",
+    "bytes": 25079,
+    "sha256": "b704439243e7e5fb3212dbb9f17cb42fd862d0db84cca745c399b06e86581c0f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_stage1_native_custodian.py",
+    "bytes": 28486,
+    "sha256": "8fcae9a7399cbb683f15539618d967b4ff33f3c83dcab6a7ec99b296737245d4"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_stage1_pidfd_lifecycle.py",
+    "bytes": 12008,
+    "sha256": "e112ca26c1ddd74741d5e98b1009a4a57e66238cf07edad879fdd04e9735c353"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_stage1_seccomp_filter.py",
+    "bytes": 6018,
+    "sha256": "2e73f08253f4c2f9fe14fd6f40b0163f264feebf9d509b58aedc9d5358f2b3fc"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_statistics.py",
+    "bytes": 29868,
+    "sha256": "ad758f396e25d8370eaa8bd6627ffdec73135c45d0832200965909e38d1fb492"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_status.py",
+    "bytes": 2768,
+    "sha256": "1f8e9d1601f262cf65a3bb0012a3c52cc1382d411afe01a417614e7b5995f1b0"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_trace_bootstrap.py",
+    "bytes": 7092,
+    "sha256": "106074d83c3562f871925ae4cf6ad269c99f801403cc4bebeb72837af25cd9b9"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_trace_coverage.py",
+    "bytes": 13258,
+    "sha256": "6c8838111de19b0a4d4b785b6a11780e843158c1a16de67bae757d789ae7eaf7"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_trace_features.py",
+    "bytes": 15683,
+    "sha256": "12cef62b0e63d9715bef603ac986a9133c63cf71cb0de8f67c8d0a28c2510989"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_trace_source_inventory.py",
+    "bytes": 7916,
+    "sha256": "a6a4f55d875977d4d02e1d3b347dc642951b3c06863f630f854d57430f6b3139"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_unified_rng_events.py",
+    "bytes": 28560,
+    "sha256": "a2a97ef5f16d4385b908b024a638e7c2526baee476944edaf9576da71724f8e1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_unified_rng_protocol.py",
+    "bytes": 12591,
+    "sha256": "880eb9fa7b79e363408008e39cfbc3f427b1a0543a9a43d0959221097a62c50c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_unified_rng_resume.py",
+    "bytes": 15595,
+    "sha256": "2d7a00c0e52614f098227a8117e962c9bd059dbcea660e5d959397b2f9dd71be"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_1_worker_bytecode_policy.py",
+    "bytes": 5272,
+    "sha256": "f61f250c7a722b2f0271df168efb16d4f65e3262d4bc69ae67fc050ff75e6cd3"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_hosted_custody.py",
+    "bytes": 32695,
+    "sha256": "b0956c23bcc1b65f4c4937d67ebc3bad5580c12b9926365da76a01d157fbfcf2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_hybrid_trust.py",
+    "bytes": 22500,
+    "sha256": "71e5d68212108d25ea5a4e657f047bd9257841dbbc8c0ded29deec3a56db0287"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_live_crypto.py",
+    "bytes": 21784,
+    "sha256": "5ba72b317869a12b5e09f67f9827bc2299b6594a1f23919f4372122ddcdda706"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evaluation_v6_3_status_cli.py",
+    "bytes": 3765,
+    "sha256": "6fd31113162e01421935834608df08d00b8b447e331f3d0b569c02fec1c4a444"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_evidence_log.py",
+    "bytes": 8322,
+    "sha256": "5d42d779677364f4e20ebedefb9d92a36a4f0205e2ecdacbc0c133c4b4787fdf"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_freeze_stage_execution.py",
+    "bytes": 665,
+    "sha256": "51421fd1e98d06e30c38a28ffe2abb1991ecd79af9dd15e72bdf54c167693abe"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_matchup_bleed_report.py",
+    "bytes": 2682,
+    "sha256": "ebeb10d0bd2aeed9a254c556629b8b8ab67c75ec4f74bd2d2e8f4d85597fce16"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_native_search_development_eval.py",
+    "bytes": 1405,
+    "sha256": "05c27818141a58d70eb822e16ae11a79cfe2d4f4c4cfae99265f9a5156ae1875"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_native_seeded_battle_invariance.py",
+    "bytes": 1175,
+    "sha256": "cc84468276d570d46a970d3ebc3ec601220b8e98b2183e41b75e08093b378bf7"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_outcome_ledger_convergence.py",
+    "bytes": 3212,
+    "sha256": "902b9f898d51b518ccfa389d5eb0ffdc9e5d6e5708fba3d4640348503b57f646"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_owned_pair_pilot_artifacts.py",
+    "bytes": 18363,
+    "sha256": "8ac12fa199494228bc63f5b13a14c62084bdf6ee40de146d82e7969c124736b3"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_owned_pair_pilot_integrity_regressions.py",
+    "bytes": 8291,
+    "sha256": "d7a904c401305dbe8ce151ceb93ae0195f5ab5d425d7d8745193324a7169d7fc"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_postretirement_episode_inventory.py",
+    "bytes": 9176,
+    "sha256": "68267cd40594415813e76b673441800a063d05c37aa63ca9500b7608258f674d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_pre_submit_gate.py",
+    "bytes": 5879,
+    "sha256": "3321bd45bb20144b5a94c5003fb50a46a8e0cf3f955aa7408319e0be0cb000ff"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_public_calibration_horizon.py",
+    "bytes": 2182,
+    "sha256": "1df9027a901c1afd35e80465cf058c25285c969774a8f454cff8014e2fb86840"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_pull_full_leaderboard_paginated.py",
+    "bytes": 2239,
+    "sha256": "a8a512052111efa143618e61de86a74fc5b68949ee76fc7812a459de9e67f680"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_qualify_candidate_preholdout.py",
+    "bytes": 953,
+    "sha256": "d8eea55b823bc8a99feb4d7c7b5aa3b886a10a1966600011ecc63e2cc16542f9"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_run_branch_support_v2.py",
+    "bytes": 753,
+    "sha256": "56e06666180139ee617cb020d0e38bc40af1ea30d620645f9dc2f49598ff0371"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_run_evaluation_v4_2_campaign.py",
+    "bytes": 25577,
+    "sha256": "b6fedc98124e0e354f8b8aa18659a7d9970991ca9beb8e0bc6e2290d1e2fe06d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_run_evaluation_v4_2_container_arm.py",
+    "bytes": 5052,
+    "sha256": "a891c81770bf1c4bd7fb2e6800985452b07481653c55e6293c9d181a80f6e439"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_run_evaluation_v4_2_panel.py",
+    "bytes": 15007,
+    "sha256": "f947741450a964058a2957af72850b24b84a139915a3123788bfa88e5f061f54"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_run_evaluation_v4_2_panel_integrity.py",
+    "bytes": 16081,
+    "sha256": "3c801a2f45ad48e58e7d9a109d374a41bca9e6366705b61793912a1d1d6959ad"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_run_evaluation_v4_2_sandbox_arm.py",
+    "bytes": 81049,
+    "sha256": "722a0820480d6e140444e690ffa3bf28c9d8eb25aab1a4ccbaa0315252754860"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/test_train_cohort_option_forest.py",
+    "bytes": 887,
+    "sha256": "98db9c9458e89d94d35a6ad7638978403de1bf57449129b136975e1e29d0fe61"
+  },
+  {
+    "path": "pokemoncard_kaggle/tests/v4_2_fixtures.py",
+    "bytes": 7441,
+    "sha256": "b48c96871bf0b635ff82a31e5cb0ecd90b2ef5553e8e19eb38faa3070a26c2b1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/agent_safety_burnin.py",
+    "bytes": 3000,
+    "sha256": "247ba86224412d41508d1c83676b4578e2b48a2eef508f073d37b5abd7a9b19a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/analyze_leaderboard_lifetime.py",
+    "bytes": 18071,
+    "sha256": "d9c9679e8cabddd8b5af985a64668d70c99ab1a92639805e3c6a41cd265ed068"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/analyze_replays.py",
+    "bytes": 6029,
+    "sha256": "00205f4ca7118fbb848bf485203a232e7ac8cab7d3ef6a44a931ce16e71c401c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/anchor_gauntlet_metric.py",
+    "bytes": 7122,
+    "sha256": "496d5eb212594d41979e14d55367375c24362a9c7f572348b1f9c36ac6335620"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/anchor_noise_ceiling.py",
+    "bytes": 7709,
+    "sha256": "22dfe5e4752423c5390d63782046c1f0db32851e15b37f0c87f745176ceefbb5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/annotate_cohort_policy.py",
+    "bytes": 2896,
+    "sha256": "0086c9bd3893bf0e5522f35d5d04d38ec8799204488691ce8d6734dd57fedd06"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/audit_active_attach_discipline.py",
+    "bytes": 6787,
+    "sha256": "1118d686768632feb729f53aeddd23c01bc3c7b6e67971d2044b0794a3e199bb"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/audit_alakazam_lethal_discipline.py",
+    "bytes": 6275,
+    "sha256": "afb73c7f7866692875a8eadef167e0f502d85d2a05145bb9c17bd223c40ee7c7"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/audit_card_id_usage.py",
+    "bytes": 6749,
+    "sha256": "40c893bc763374ff50636ea9508de017315e70f0630fe6e9428bcab436da9e9d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/audit_cg_cabt_parity.py",
+    "bytes": 8618,
+    "sha256": "c6193fe4de44a1d79bc873f7fe76ba284a252fd2a311d8aae815875cfb615efc"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/audit_dudunsparce_safety.py",
+    "bytes": 10954,
+    "sha256": "32b465264dcd6f46019abc30284027d6385a372d9403215f2af6c877b59081e5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/audit_evaluation_v4_2_readiness.py",
+    "bytes": 2085,
+    "sha256": "39e60a5c1c6d4c1eb3e503630d70c3899c6d8fd8fff4c2361de5a74494133382"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/audit_evaluation_v4_2_science.py",
+    "bytes": 1823,
+    "sha256": "38a579ee23da84611fa6e2a45d10f97da153d5b30f1ed6a7319eb3ad8c066a88"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/audit_local_league_public_gap.py",
+    "bytes": 15944,
+    "sha256": "7b678b0bebb67c77f4cb6ff14453847ecdbf596fe016be7b6d35858c97494cd9"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/audit_world_bank.py",
+    "bytes": 4481,
+    "sha256": "ccf1daca2d9710ec3f44fa4891938dca541ab924c4a5e19452fbd89b65bc394e"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/backtest_local_vs_public.py",
+    "bytes": 28625,
+    "sha256": "1fe5c6363920ce449c3bf851baa320c2f971ca3d93d5cd7c4ce64cb64dcc793d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/backtest_loocv.py",
+    "bytes": 13113,
+    "sha256": "9f471a6b6a4f58ac34a074b21ade9ce04eef18b0440ae4b97ae4b1813b740e29"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/boundary_resolver_report.py",
+    "bytes": 9528,
+    "sha256": "adc2ec111317db7b0acf6abdb3b76d5361e6d4c012e3de040a009aafcd7a6ac5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/branch_outcome_bridge.py",
+    "bytes": 27864,
+    "sha256": "8ed67b918ead81979c06851a9081c638a49e7caaab4b5e11f347eeb5b8c1c203"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/build_branch_structural_rows.py",
+    "bytes": 42752,
+    "sha256": "38fc2d50eadd8bb89555eb40ec7e4ba3790ca92c14ed83b237a480ee17c6507e"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/build_cohort_ml_dataset.py",
+    "bytes": 4392,
+    "sha256": "0c1d01d0fad7442a5376d75009e3778cab1caf6ce243a358270b2fcb6819c2a7"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/build_critic_metric_panel.py",
+    "bytes": 7607,
+    "sha256": "e6925cd4f768596c07d43e70f52b32e52d37bf69bb510f6a42c93562d7ce93c4"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/build_deterministic_search_engine.py",
+    "bytes": 5259,
+    "sha256": "93eef9c29caf1dcb03eea63f4ecc99fb8adfc3fa3bc71cc6cae995b03a264779"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/build_evaluation_v4_2_training_inventory.py",
+    "bytes": 7441,
+    "sha256": "405e1dee05c7209bbe54e60ee5388243fc94c06e2924cea490229eb63a652ae8"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/build_meta_deck_snapshot.py",
+    "bytes": 4911,
+    "sha256": "e82982f1009fbc57b7cfc8d191678574122e4dcb2d9470e29c1fee283be34c81"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/build_ml_replay_dataset.py",
+    "bytes": 22538,
+    "sha256": "10123a40fef6245b943b36fee2983ef81b18a0e3a35f6078ca5a2d813a485cb8"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/build_nonholdout_augmentation.py",
+    "bytes": 3757,
+    "sha256": "ffc4d6f4534d3d649cd08d359027ec7c7d462e858fb77a4230fc3e06a26118f0"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/build_postretirement_episode_inventory.py",
+    "bytes": 1431,
+    "sha256": "89fdad1a7f4d17a83e381f48a2c7b9836a70fa70640e5a54e6c5d5519faa5b3d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/build_public_action_feature_panel.py",
+    "bytes": 18621,
+    "sha256": "d7b47493befa185c7fb3814b1d6c985b3645efa2dae1698c121562d8acd8b5b6"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/build_public_action_metric_panel.py",
+    "bytes": 7734,
+    "sha256": "89fd00a24b3d36cbd82d252336a09f5f4a398c9ca04ee2349ec1d03caa19cbe6"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/build_public_transfer_panel.py",
+    "bytes": 3480,
+    "sha256": "4ce173327425378d7460d4037ce8c32a32cc96189fa798f723acfbeca62554dd"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/cabt_differential_eval.py",
+    "bytes": 5102,
+    "sha256": "c8a75fb77cd9ca78448a194b3d195a24e113b885f009658f9a47950b190f31bc"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/cabt_local_league.py",
+    "bytes": 9589,
+    "sha256": "260ecb346aa8b9799d4590e2fa266ae11eb399212b21628f17af17177b8445c6"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/calibrated_candidate_rank.py",
+    "bytes": 9910,
+    "sha256": "ffa951b878eb57cf4620ffcb70fd0cf763b9a4c49840e64dd0a0c5268ac96dc6"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/candidate_critic_harness.py",
+    "bytes": 82236,
+    "sha256": "344988d027dcab34964e5a7dc294b6437707a3a1ea39432bbc57122c5a9c6338"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/capture_evaluation_v6_3_1_m0_build_lock.py",
+    "bytes": 14777,
+    "sha256": "0134664a0438ea7b1e37d3b3b2d4e288da190a30acbbc88088caadb50d93b792"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/capture_v631302_raw_collector.py",
+    "bytes": 9333,
+    "sha256": "ebed8a088cf3e481b998f6fb25236e808cd7a6d56f6f230e14e883703203f893"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/claude_league.py",
+    "bytes": 6742,
+    "sha256": "98cd3b4b22bd995654f93b3841f4bef8c4dc59e97ee59cff9f8edde39fdfbd9b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/compare_replay_actions.py",
+    "bytes": 9328,
+    "sha256": "c332d507c79e3562f76a5e80157dbd3fad963cb3281ecd007bce30bbb76e82eb"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/compile_strategy_adapter.py",
+    "bytes": 15141,
+    "sha256": "156001a38f6144e816a419925163cbb7eb20a0053e1e6d63577114b8b58353bd"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/compile_whole_policy_simulation.py",
+    "bytes": 1711,
+    "sha256": "21c1710182f15f00d3902afee2c5a2becc44473338fadb8dde4cc9e94f7f7a5b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/composite_scout.py",
+    "bytes": 11089,
+    "sha256": "0b61b276f3aaef5ccebdb0cbe1b6785beec3a95293e091ee4990535705e1cdca"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/derive_priors.py",
+    "bytes": 10996,
+    "sha256": "5df075003213a360329ffd392eddf847ff18d5b83af808bb99434bf0d88b469a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/engine_oracle_branch_worker.py",
+    "bytes": 1398,
+    "sha256": "b8fc60b2694c48075a193f7899af1f4bf8ae80f6bfd6cf48e675c6a92c1ac289"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/episode_eda_report.py",
+    "bytes": 13913,
+    "sha256": "4767ae92c4508795f83a6ef7b14f885426d242d69e606e4e9e2f1df11aa7db26"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/eval_pipeline.py",
+    "bytes": 16670,
+    "sha256": "435f89349c7d90ccdb9e9fb2d629e53d2b3a15a86e1d60ff4b274fda36ab8cc1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluate_ability_attack_predicates.py",
+    "bytes": 14173,
+    "sha256": "4c35d1e9c31185826198a3e356c60988460c075136db3cab797eb52232f29c7c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluate_action_ranker.py",
+    "bytes": 7174,
+    "sha256": "e017db6b427b05aedeca06e78c4f0061a52b16d40fab4dc8d01b36d58b830345"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluate_attachment_timing_overlay.py",
+    "bytes": 22007,
+    "sha256": "e47253d7cefe4ccd7129d2e77a4ea2aa3c6f8058c6cd86d353b2739c3f587830"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluate_candidate_outcomes.py",
+    "bytes": 1234,
+    "sha256": "1a37af4dd40ab80547f04ab1154705a705fe4d983fc0f8797c550a6e0483592e"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluate_mismatch_feature_gate.py",
+    "bytes": 25875,
+    "sha256": "08a81a41b40d60f8942fb58bbf9f4748a726163def108c79dfa96656e2a287d5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluate_public_anchor_guards.py",
+    "bytes": 20864,
+    "sha256": "90d1b2ab87572e1dc741f639762062d2a5d009725354e81c8f687bb15365b522"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluate_public_anchor_pairwise_reranker.py",
+    "bytes": 25969,
+    "sha256": "c06062cf850d67c3f529353352b30f1b75bd40bbd6fdc514989c98c06d99819f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluate_public_transfer.py",
+    "bytes": 3463,
+    "sha256": "1db0bc36b27f1b99dd4cd8cc6d2c73c233dfec43c23a4238a120ca988ed06504"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluate_strategy_feature_stack.py",
+    "bytes": 31768,
+    "sha256": "cb37f07463f9006b2ff1487fe46144e00c4e0f7887c2e863353557ef5bbd8d04"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluate_timing_exception_overlay.py",
+    "bytes": 13686,
+    "sha256": "1dab6ab87c610011fe0595dcc8023099825c38e3a62800aad89de44c17a8af4a"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluate_value_head.py",
+    "bytes": 3078,
+    "sha256": "de537f3166fe2c933d8afff7cfbfaeec3ce1c500bc13dcf5639afeab7f2d7635"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluate_whole_policy_selector.py",
+    "bytes": 1334,
+    "sha256": "738b6f404892bccb297c4dacfdcd19e2ae7a79e5ff6b2be7a3c7957e8448017b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluation_v5_1_feasibility.py",
+    "bytes": 1855,
+    "sha256": "146b2fae4e12d7d04714b4c739662f4fda40637561ab2b77963a5b50fed9d536"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluation_v5_1_population_readiness.py",
+    "bytes": 13927,
+    "sha256": "453683a72a56eb76ebe8e58036e1ef8d2e06f40ec99002ce8688838c76cf286e"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluation_v5_1_status.py",
+    "bytes": 17275,
+    "sha256": "5b6d76f66e90aa79d1103ff18793e0324cf651c7b1f985982b80cb5c21433fd2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluation_v5_status.py",
+    "bytes": 19604,
+    "sha256": "2e80d17513d9911cc3e91c177eef1cf73a5b4c16ac6853b232691051eceb5747"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluation_v6_2_3_recruitment.py",
+    "bytes": 13151,
+    "sha256": "d6c3f2ac8b0365b1ed20f38c2e459a67a91f962d7cfa0019bd7dca5c25b80174"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluation_v6_2_4_release.py",
+    "bytes": 4095,
+    "sha256": "29b1a4946ca998ec8b4d535b7e0caad564a44894ad458024ae71dd1b4bb40812"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluation_v6_2_5_release.py",
+    "bytes": 4215,
+    "sha256": "47527a9fc46dce815a588384e39b3bd351841194b946671b5a25cec2fb85f4ec"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluation_v6_2_6_provisioning.py",
+    "bytes": 9836,
+    "sha256": "bd4f613534ea75a9a55e1dbde8fe54ec25aa9b6164df940558a5261d3d9d4749"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluation_v6_2_6_release.py",
+    "bytes": 12101,
+    "sha256": "f8bf33014fc6b9fc20d19847e59494db8f1b0663409223be6d7cced56a34aa3b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluation_v6_2_status.py",
+    "bytes": 904,
+    "sha256": "42ff11b803bacc0c540487b89e68bb0f74de8227bb0f4ccb33dd0417c021a1f1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluation_v6_3_1_status.py",
+    "bytes": 722,
+    "sha256": "fdbc70e8869600ea2d2e9c76c2da020850a6e95066072d4076efcbbdda8c9c8d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/evaluation_v6_3_status.py",
+    "bytes": 3467,
+    "sha256": "044d91f34829afbb2d2d68737d679c283755f3bb10b986c1df7e9a55c2c26a91"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/export_value_head.py",
+    "bytes": 2162,
+    "sha256": "b5745074ab51a4446897f15191490861b590689cbc1796213c53be49d40bf9b5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/filter_arch_replays.py",
+    "bytes": 5914,
+    "sha256": "ffbe53f913bd2e808dfe599dab9ac0d48775f9ea7fa0f378d8cdb547af0c12d4"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/filter_public_transfer_panel.py",
+    "bytes": 1385,
+    "sha256": "c6b4309f6257d9cfd93700e5006b7fbbe9b9fa05e78650095d20a1aeef5ef755"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/freeze_evaluation_v4_2_campaign_runner.py",
+    "bytes": 3614,
+    "sha256": "d8ccb3c082cb138d24664197f5fc86841db0d38b486b346810fe60f0514ece14"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/freeze_evaluation_v4_2_runtime.py",
+    "bytes": 1992,
+    "sha256": "e2fa44b338e9d6019dc497c438d6bbf965798347100b8a044f9993c9dab6b828"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/freeze_stage_execution.py",
+    "bytes": 2769,
+    "sha256": "0d958ff4a3ade6c8f0e80733dba61d8c0a6dc2664d566069ff45f4af6287095f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/heartbeat_loop.py",
+    "bytes": 32006,
+    "sha256": "d7e59019d76570f749d1aceb34d45cdde69622c860f6ef85f69582e64ae23ce0"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/heldout_agent_gauntlet.py",
+    "bytes": 11074,
+    "sha256": "ddc0af946b1404da24d41e869993c5324d36dfaedc400c8afe2685af3d5d270c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/human_meta_score.py",
+    "bytes": 12553,
+    "sha256": "034af3301b91498016e08149e67a5f647db1a2a0d973ec8290a76b77b5a94da6"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/live_window_audit.py",
+    "bytes": 12369,
+    "sha256": "f83d1eddd5fb7386e38663a4704834c1451736bc476b5aecdecf939b6a83d15b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/local_top_league.py",
+    "bytes": 30822,
+    "sha256": "72c4a06ec9bbebb264cc9875edefd35e9cb2a024cfcb4100e5b72bfc710accf1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/matchup_bleed_report.py",
+    "bytes": 8044,
+    "sha256": "cd425d92028047e6ebe0750f3e0fb0284ac39ba61542bd4fbd85a5674d5fb3d1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/meta_gauntlet.py",
+    "bytes": 38708,
+    "sha256": "258b68f8f0cb8d5c346c0d258213115c38207c361ca046303de5b69c208ea4a5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/mine_ability_attack_exceptions.py",
+    "bytes": 14120,
+    "sha256": "066d51d348eeb6375418e7ef5078d9dbcd4776d2b6c55f4b63602d751e27095f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/mine_ability_attack_guard.py",
+    "bytes": 13243,
+    "sha256": "9704ca216de74e2b03fb3f3ced6ef4fc086c634d1a766acfaacf64c44816b927"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/mine_action_ranker_mismatch_predicates.py",
+    "bytes": 29513,
+    "sha256": "649fb88b31eb8850823c2bd226562ceddc7725a83e52dec608ebaa1622610186"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/mine_agent_boundary.py",
+    "bytes": 19190,
+    "sha256": "0483b385eda8c42b477412c82b1a1b5b543187cf8d4dccef1f03fc241d1ce3e9"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/mine_attachment_timing_predicates.py",
+    "bytes": 24551,
+    "sha256": "14075f6cf153a3c4d502c3db693096e2cea466e675e61b17060187f2c2f5e88c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/mine_attack_play_tempo_predicates.py",
+    "bytes": 24733,
+    "sha256": "ab93c0d9eab0915d56429f7226ff220dbbdd62734090b802bc990eddf175c1e1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/ml_replay_coverage_report.py",
+    "bytes": 15918,
+    "sha256": "45f329a6714ce213ccc35ad6b9aed5e088653c905c25c759fa509baa8a6b91db"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/ml_replay_ingest_refresh.py",
+    "bytes": 12994,
+    "sha256": "9d6f03ac1bf7376a205c06315df1276a9d567abca6c9945f33bf700d2f27c0f1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/motif_holdout_report.py",
+    "bytes": 7228,
+    "sha256": "dff921e3323be84c7bf2c887c00c1fef43a68e25671c4089b395330e7f5362fc"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/native_root_information_audit.py",
+    "bytes": 3964,
+    "sha256": "9e9018debd6c787b69904072d375121e065e2b8970bcbbd157f41d79b322a31c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/native_search_development_eval.py",
+    "bytes": 16266,
+    "sha256": "6ba5ebb7a2a71ebf35f7896785bc5ec65bb85eefb3e15a8d909a953e86a3d920"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/native_search_invariance.py",
+    "bytes": 9599,
+    "sha256": "3d9c6e7483ed7778b0e6b7cceae656b2c9d0e705d0310cee49342f505c4385e0"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/native_seeded_battle_invariance.py",
+    "bytes": 5285,
+    "sha256": "50a5565195c5473322e4a70ee527e6eadd60376e7ab3947fc5235aa85a561af8"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/outcome_ledger.py",
+    "bytes": 27202,
+    "sha256": "c6675adac29c287ae373e924ff9c38d04c2b16470e9678a4eb2ae7fe265330cf"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/outcome_transfer_gate.py",
+    "bytes": 2011,
+    "sha256": "07529e72a0dc4f283a6f68205f89ee26eaed6120a4e65060ac4ba581fb1111aa"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/owned_pair_pilot_artifacts.py",
+    "bytes": 49981,
+    "sha256": "16c631e4c4a6270371d10276417378def2b67711dded51b11213f102c455e8ce"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/pair_strategy_selector.py",
+    "bytes": 25005,
+    "sha256": "31d39872418af381fe61b72463f9c36c2b5803ae8dd0abc32a50366b2a7fc728"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/panel_rating.py",
+    "bytes": 14297,
+    "sha256": "8c52cecbe77eb1e70bbdeec2e613c82e2ee6abbeb7d53406ce5d4bbb9dc253cd"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/pimc_suitability_probe.py",
+    "bytes": 13549,
+    "sha256": "0fcaa9ef5e75abc40484244124de50b03ab0b1a529c30a963c8ed397d6c5cc9d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/policy_casebook.py",
+    "bytes": 14589,
+    "sha256": "2e3e6775986884d0ab6798883d2ac86cbe3229d0fdb484e55ad63be6f11a52bb"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/policy_casebook_compare.py",
+    "bytes": 9041,
+    "sha256": "d16d46ad0e896479bc714c14b5c347b6058f294b2e535c377d7842920cc0ff55"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/policy_gap_miner.py",
+    "bytes": 16536,
+    "sha256": "806369b49405f9b840553cfac204c9ca8f3beff6d010558577df05385877895f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/pre_submit_gate.py",
+    "bytes": 51375,
+    "sha256": "cad49c28d99bc77a6df601109ab07b7e9d5e6fc752c0cdd78aa3e07cfef32983"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/process_recycled_gauntlet.py",
+    "bytes": 10906,
+    "sha256": "348f855c249f3524fdf84d348d313817353abaad0f541daac9ed38374e865696"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/prospective_calibration.py",
+    "bytes": 4112,
+    "sha256": "f403d0cbd281a70fd05d66bd9d73e635191cffb7e21d5af11af2e2d649276d1b"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/prospective_shadow.py",
+    "bytes": 4053,
+    "sha256": "cc2c46fc2829778ff18ede152e548b92cf2cd846260840ae9001ee11c1ede34d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/psro_payoff_report.py",
+    "bytes": 20978,
+    "sha256": "9f03667d9b7b246c6612c9c4ed40c2beb55216e1411f8fb020130fc1dbe470fa"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/public_action_mismatch_gate.py",
+    "bytes": 54978,
+    "sha256": "a679fa0959f0addb9187f4124a88a78367f22a5572f3dc5173d289b066349eaf"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/public_anchor_curriculum.py",
+    "bytes": 19970,
+    "sha256": "2cf4805a1cad9d6ab09276373d496e3233c1b97fa5af075a09e89bb1ec02b9e1"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/public_anchor_feature_gate.py",
+    "bytes": 17610,
+    "sha256": "d00a524b3ec56e7c6e634eabac77de9b4818daa34b6796bc41c874521e91f7bc"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/public_anchor_policy_targets.py",
+    "bytes": 19535,
+    "sha256": "33bf4017f229383d2a8faff3c8955f2a08e4674e66ce14ce8050c485e8ac0aa8"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/public_anchor_report.py",
+    "bytes": 18720,
+    "sha256": "3cece6cc2f0103de1082a4ea9372f8ea165b7b925545941ccbbb783ae8f544cc"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/public_calibration_horizon.py",
+    "bytes": 15969,
+    "sha256": "e0ae254b6de2a4482865833d99f5c738ab7142a84c248018d3a34701b73f55c9"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/public_episode_quality_report.py",
+    "bytes": 12924,
+    "sha256": "b4a8e6abdd6f78e12bed624649426400a843daabf2112b8092db3584d6094eb2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/pull_full_leaderboard_paginated.py",
+    "bytes": 5324,
+    "sha256": "e94b1d4608c09778551cfd7651bceae7467da52389d03e24126afb53e4c840a9"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/pull_submissions.py",
+    "bytes": 4572,
+    "sha256": "087a9f47dc6e2cca671afa9f124ff5d8443c149725c1a896b7dfbff5d04f79f6"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/qualify_candidate.py",
+    "bytes": 16938,
+    "sha256": "e389b4ff3121f776e38e55d5c1f472ec8fdff86144193f620c1eef4007a9c4e5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/replay_fidelity_audit.py",
+    "bytes": 31286,
+    "sha256": "759246ad129a1dff705b4d100379dd1e7df44dcc796ce5801b2e0c9b155274fd"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/replay_pool_gauntlet.py",
+    "bytes": 16070,
+    "sha256": "b8734495ac280b7fc51350a3f0c3029ccbd7e9acfc7c47beda0ff875bd54264e"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/reset_strategy_refresh.py",
+    "bytes": 28335,
+    "sha256": "4af8e0b349ad3d3f6710418c27e3ce984d97358801ab8c175da6c9c989524538"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/reweight_scout.py",
+    "bytes": 9045,
+    "sha256": "833195584eb407f272a2e48dc23dcfca0dc372e376a943d86cbc10c82c0a61a0"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/run_branch_support_v2.py",
+    "bytes": 5329,
+    "sha256": "3a12b40173b0179faeb97dbc1528bbf2f4356e756e27a1f678c305ebf8ad9793"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/run_engine_oracle_probe.py",
+    "bytes": 7423,
+    "sha256": "681060ce8f866496548bbd1a5001c9d678a0d4fc2a7a28034bf7f025dab6636f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/run_engine_parity_league.py",
+    "bytes": 9911,
+    "sha256": "698d0872b287c6d6e862d775c10be49ea2591ac6b2eab68cfdee1822281616cf"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/run_evaluation_v4_2_campaign.py",
+    "bytes": 31344,
+    "sha256": "3e0e2ff2beff79c46d35c9d3e4eec7cdb6d2eb6e354ae0e0986f2188406db889"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/run_evaluation_v4_2_container_arm.py",
+    "bytes": 54689,
+    "sha256": "6ac61de6aa2cb5ed90824e322524228de0cb8991cf2a1e1f6bc3295c0ce2f6b4"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/run_evaluation_v4_2_panel.py",
+    "bytes": 52535,
+    "sha256": "c06ef34f590fa28fdc7381c1bb63eff03d6fe44e7f133fabf097f3123e262486"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/run_evaluation_v4_2_sandbox_arm.py",
+    "bytes": 180677,
+    "sha256": "59e2a4f15404c411510ca57e36aada584e95b20fbb2ba8c5b390f040e6b750b4"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/run_local_battle.py",
+    "bytes": 9658,
+    "sha256": "60b55ce790039bf642e1209bb7267205c1bc3961b5ab37992fb731816d85d3c4"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/scout_top_replays.py",
+    "bytes": 8413,
+    "sha256": "ffa4a413fd70aeb4fd32fd83850140188d546c7dd529175e42c9c1ee6e9ad9bd"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/seeded_transfer_feature_panel.py",
+    "bytes": 13368,
+    "sha256": "9bfbef29dcc6a725fe53232b5afe01e494d1f53e7d0c1801c18f0a129cb263ee"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_action_gap_report.py",
+    "bytes": 7756,
+    "sha256": "a04ce9043fa29b847f0bdf113e48825dfded95e298d9a4840f02f1a44b2002be"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_blindspot_backlog.py",
+    "bytes": 12922,
+    "sha256": "bf0051b24298525f8e04f4e6a8296bf41a496b3ea0fefb40b7c5f87c7d9e8e9d"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_blueprint.py",
+    "bytes": 22929,
+    "sha256": "34512d5669b2844c3f4f5c5c70cc6b2bf272e1254368c288b696549ecd450df5"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_decision_packet.py",
+    "bytes": 18880,
+    "sha256": "ac08745acbf720f19463a6120fe6163247ac1a672a0d8e47831f626ebea64145"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_doctrine.py",
+    "bytes": 15016,
+    "sha256": "801801a0671aff5b9494739170cadc83abfa47a63383d9714a75804e555e41bd"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_drift_dashboard.py",
+    "bytes": 14378,
+    "sha256": "153205fab50a514cc516c0fa7cfa19bf67e55f9f091fea368c514f7d1b047520"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_experiment_ledger.py",
+    "bytes": 8387,
+    "sha256": "35df8d7c3d1792f6cedd9b2e8e92b1be29e925a43e49209ef4c13825553d5d90"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_gap_report.py",
+    "bytes": 8141,
+    "sha256": "4fe0e75fc9df3a7eaee467ef79ac2d118164732c28c5453ef7683b9580e1d03c"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_matrix.py",
+    "bytes": 12570,
+    "sha256": "3fd9604b538af4ab4974c48e56c78671cea58a37d2c0c4e7d88638b8b01afcaf"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_playbook.py",
+    "bytes": 15187,
+    "sha256": "744fafaef78da25339c104ada2709172c32a80bc7362c63a6cc18efb730231d4"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_pressure_router.py",
+    "bytes": 19027,
+    "sha256": "3eac2d6d237239de477616431d6e28c971f1a9028736919b3c25987599698a05"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_research.py",
+    "bytes": 36010,
+    "sha256": "10af6cc75d4caa378521ad2ed9f913fe7a275b39ef1475896b2173c3f058106f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_signal_registry.py",
+    "bytes": 36640,
+    "sha256": "0ed5dcdc49a6823e8560682531627dcf9addab2c1d4392fdcc215657d033fa61"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/strategy_synthesis_report.py",
+    "bytes": 27503,
+    "sha256": "3cf8e552bcb4909932f833556660c59d22bcf07ae00bcc538cfd185be8ad5912"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/sync_episode_index.py",
+    "bytes": 5903,
+    "sha256": "77019dc0989414d1e32af796d6c7f36b730620e425b327b89e5933692e0877f4"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/synthesize_public_anchor_guards.py",
+    "bytes": 17040,
+    "sha256": "061184854657b39352b0aeb6f96161c9ea5b561a772f4caccb4e4bff0fbedfb0"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/train_action_ranker.py",
+    "bytes": 13742,
+    "sha256": "4881352e7ecb42ef3cf536de68aca50603e6a3483a6830d0fb6f1e307994a844"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/train_activate_classifier.py",
+    "bytes": 12335,
+    "sha256": "bf5cd18b442035e4957813f64f5a4deaede446f7e9f71c3b223502ef760640e2"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/train_cohort_option_forest.py",
+    "bytes": 18139,
+    "sha256": "b6607c57e24a2e62e80e96eaffe5c761558fdebf1e5749ca54713679b0b56139"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/train_conservative_timing_ranker.py",
+    "bytes": 16992,
+    "sha256": "2e231e8347378f627b249df149ce0128bbf7c69da663e7ea7b1646bf888bbe5f"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/train_dudunsparce_residual_ranker.py",
+    "bytes": 16028,
+    "sha256": "78d462aeeee1a21d8e641a861cea3fbe487427a7a1c6054ec464eb6c47692d58"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/train_ml_policy.py",
+    "bytes": 11358,
+    "sha256": "d7aa19e6f19bc34e550981c626642b8bd91274f00bb0ac9c2daea08aa389ab9e"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/train_policy_net.py",
+    "bytes": 11725,
+    "sha256": "41a837fd7e985983e923ab4ba9c3ce51f55911751c9751b1c3065dc1ca07ced0"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/train_public_anchor_target_model.py",
+    "bytes": 18602,
+    "sha256": "8358d82b6c02693ec50b620df1521a17c05d13322e40b167ba5a45d7ef0529dd"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/train_strategy_action_ranker.py",
+    "bytes": 17477,
+    "sha256": "c13b3784c83a00590d0176821eca2f5a5710b08741314767f736916998d3c376"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/type_pressure_report.py",
+    "bytes": 13239,
+    "sha256": "bbb2c347a7a496f47683b30780d8384f5410a4779cff33e4fa557bcf59ee4e00"
+  },
+  {
+    "path": "pokemoncard_kaggle/tools/verify_v631302_worker_bytecode_policy.py",
+    "bytes": 17291,
+    "sha256": "a6535147b4a7e1ed027d0a78e75ea07afdae905995d870e4b09d4956e04f373e"
+  },
+  {
+    "path": "pokemoncard_kaggle/worker/v631302_diagnostic_worker_v1.py",
+    "bytes": 33817,
+    "sha256": "0dcbb36e1993a0b9192ed5178eefe5c3746efbe348ab6800a64cd4b8bdd6795a"
+  },
+  {
+    "path": "pokemon_kaggle_claude/.gitignore",
+    "bytes": 185,
+    "sha256": "ef8391ad49dac073f70caeeaa0319179b30670b862d486d7700e50c406f1cfd6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/.python-version",
+    "bytes": 5,
+    "sha256": "49a506dd32096b010d75205acf3430c9ae6c40351888129499e5a5e487126c93"
+  },
+  {
+    "path": "pokemon_kaggle_claude/agent/features.py",
+    "bytes": 7665,
+    "sha256": "83f8a0fe7b94c0c2693204b3018cd676df8e053d51c61f695dfb679a3629f75c"
+  },
+  {
+    "path": "pokemon_kaggle_claude/agent/main.py",
+    "bytes": 24073,
+    "sha256": "6d4816ac20b68ab24e1eb83822b8b54464090338ad0f4b613e2dd04336092980"
+  },
+  {
+    "path": "pokemon_kaggle_claude/agent/values.py",
+    "bytes": 2383,
+    "sha256": "de40b87013adf50ebd1043b2bff32884a10d36b239b805c3b13aa41478c83ac6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/agents/kanga_master/features.py",
+    "bytes": 7665,
+    "sha256": "83f8a0fe7b94c0c2693204b3018cd676df8e053d51c61f695dfb679a3629f75c"
+  },
+  {
+    "path": "pokemon_kaggle_claude/agents/kanga_master/main.py",
+    "bytes": 31913,
+    "sha256": "a5de5927721b1eaa44b050fc20f07d0e2cac68326d451f43e93e9d0cd3b850f2"
+  },
+  {
+    "path": "pokemon_kaggle_claude/agents/kanga_master/values.py",
+    "bytes": 2383,
+    "sha256": "de40b87013adf50ebd1043b2bff32884a10d36b239b805c3b13aa41478c83ac6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/agents/v155b/main.py",
+    "bytes": 28266,
+    "sha256": "8a1800794d3f06d73ef542f1eae088476fe46efc87dc037e191fffc8f6e8f8eb"
+  },
+  {
+    "path": "pokemon_kaggle_claude/agents/v155b/prior_psy.py",
+    "bytes": 20541,
+    "sha256": "7dc4941cf850be020811396712bc7f0caa8c121943027c7f4e1947555863e133"
+  },
+  {
+    "path": "pokemon_kaggle_claude/agents/v155c/main.py",
+    "bytes": 28266,
+    "sha256": "8a1800794d3f06d73ef542f1eae088476fe46efc87dc037e191fffc8f6e8f8eb"
+  },
+  {
+    "path": "pokemon_kaggle_claude/agents/v155c/prior_psy.py",
+    "bytes": 20552,
+    "sha256": "75fc0fd0a2835e7c56ede7eb10e6119bb31c62fe785967f8f03433ea2180c6fd"
+  },
+  {
+    "path": "pokemon_kaggle_claude/pyproject.toml",
+    "bytes": 214,
+    "sha256": "2ceccb978b123fe0819067e0acfc71d6a7aab900fd6b9507f041e9fd0051f9d5"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_kanga2/features.py",
+    "bytes": 7665,
+    "sha256": "83f8a0fe7b94c0c2693204b3018cd676df8e053d51c61f695dfb679a3629f75c"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_kanga2/main.py",
+    "bytes": 24701,
+    "sha256": "5530db6ba3de25bf70e1965b07f3253ef5aefc77851b08d19b1a080f450105d6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_kanga2/values.py",
+    "bytes": 2383,
+    "sha256": "de40b87013adf50ebd1043b2bff32884a10d36b239b805c3b13aa41478c83ac6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_kanga_orig/features.py",
+    "bytes": 7665,
+    "sha256": "83f8a0fe7b94c0c2693204b3018cd676df8e053d51c61f695dfb679a3629f75c"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_kanga_orig/main.py",
+    "bytes": 24701,
+    "sha256": "5530db6ba3de25bf70e1965b07f3253ef5aefc77851b08d19b1a080f450105d6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_kanga_orig/values.py",
+    "bytes": 2383,
+    "sha256": "de40b87013adf50ebd1043b2bff32884a10d36b239b805c3b13aa41478c83ac6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_nogate/features.py",
+    "bytes": 7665,
+    "sha256": "83f8a0fe7b94c0c2693204b3018cd676df8e053d51c61f695dfb679a3629f75c"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_nogate/main.py",
+    "bytes": 23686,
+    "sha256": "01dfd49ccddb6b24318e4cfc825f311e65a9239dac23df4e8eb78d37dbbd427e"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_nogate/values.py",
+    "bytes": 2383,
+    "sha256": "de40b87013adf50ebd1043b2bff32884a10d36b239b805c3b13aa41478c83ac6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v10/features.py",
+    "bytes": 7665,
+    "sha256": "83f8a0fe7b94c0c2693204b3018cd676df8e053d51c61f695dfb679a3629f75c"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v10/main.py",
+    "bytes": 24701,
+    "sha256": "5530db6ba3de25bf70e1965b07f3253ef5aefc77851b08d19b1a080f450105d6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v10/values.py",
+    "bytes": 2383,
+    "sha256": "de40b87013adf50ebd1043b2bff32884a10d36b239b805c3b13aa41478c83ac6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v4/features.py",
+    "bytes": 7665,
+    "sha256": "83f8a0fe7b94c0c2693204b3018cd676df8e053d51c61f695dfb679a3629f75c"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v4/main.py",
+    "bytes": 21214,
+    "sha256": "c4dccf6bcece61080f3d9598c53435a10bdaabec8c3ee08a82ef3162e4f3a911"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v5/features.py",
+    "bytes": 7665,
+    "sha256": "83f8a0fe7b94c0c2693204b3018cd676df8e053d51c61f695dfb679a3629f75c"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v5/main.py",
+    "bytes": 22483,
+    "sha256": "a338f7f2975275972a9a543cbb44908fe81edadbba40921b41b4117f0809e099"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v5/values.py",
+    "bytes": 2383,
+    "sha256": "de40b87013adf50ebd1043b2bff32884a10d36b239b805c3b13aa41478c83ac6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v6_frozen/features.py",
+    "bytes": 7665,
+    "sha256": "83f8a0fe7b94c0c2693204b3018cd676df8e053d51c61f695dfb679a3629f75c"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v6_frozen/main.py",
+    "bytes": 23642,
+    "sha256": "365c864e70d21d0529207f7819fefac1fb635b1ccdb8dea0838a3c70af8c2236"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v6_frozen/values.py",
+    "bytes": 2383,
+    "sha256": "de40b87013adf50ebd1043b2bff32884a10d36b239b805c3b13aa41478c83ac6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v8/features.py",
+    "bytes": 7665,
+    "sha256": "83f8a0fe7b94c0c2693204b3018cd676df8e053d51c61f695dfb679a3629f75c"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v8/main.py",
+    "bytes": 23642,
+    "sha256": "365c864e70d21d0529207f7819fefac1fb635b1ccdb8dea0838a3c70af8c2236"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v8/values.py",
+    "bytes": 2383,
+    "sha256": "de40b87013adf50ebd1043b2bff32884a10d36b239b805c3b13aa41478c83ac6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v9/features.py",
+    "bytes": 7665,
+    "sha256": "83f8a0fe7b94c0c2693204b3018cd676df8e053d51c61f695dfb679a3629f75c"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v9/main.py",
+    "bytes": 25132,
+    "sha256": "993032400cf559c711cbf9f5252365e81fae03cb336658becba5d48f8df8f9e8"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v9/values.py",
+    "bytes": 2383,
+    "sha256": "de40b87013adf50ebd1043b2bff32884a10d36b239b805c3b13aa41478c83ac6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v9b/features.py",
+    "bytes": 7665,
+    "sha256": "83f8a0fe7b94c0c2693204b3018cd676df8e053d51c61f695dfb679a3629f75c"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v9b/main.py",
+    "bytes": 24701,
+    "sha256": "5530db6ba3de25bf70e1965b07f3253ef5aefc77851b08d19b1a080f450105d6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/agent_v9b/values.py",
+    "bytes": 2383,
+    "sha256": "de40b87013adf50ebd1043b2bff32884a10d36b239b805c3b13aa41478c83ac6"
+  },
+  {
+    "path": "pokemon_kaggle_claude/staging/features_v3.py",
+    "bytes": 7665,
+    "sha256": "83f8a0fe7b94c0c2693204b3018cd676df8e053d51c61f695dfb679a3629f75c"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/build_dataset.py",
+    "bytes": 4387,
+    "sha256": "0abd19684963cb1a11bc61cc5f656c6cde422227126793302de6767bbf63d0f5"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/build_twins.py",
+    "bytes": 5585,
+    "sha256": "9c6ec6c2de45df3658eedee38510cff2bff63d798d023d43e12aacbc3a3a8cde"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/diagnose.py",
+    "bytes": 3311,
+    "sha256": "9b1cbc34de157775744de393f121d3669a38c54aaab56b1039b2f036e15571bc"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/distill.py",
+    "bytes": 4787,
+    "sha256": "450224ff7ca9aef09d03716e85286d16a394766d1e4e7e4fb1e9b519835def95"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/distill2.py",
+    "bytes": 4985,
+    "sha256": "dc981dad4999ec5282d78935175551d57b631c2215142bd836a22814b246b90b"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/fit_gauntlet.py",
+    "bytes": 4898,
+    "sha256": "3b34d405ebcb682a9f7dbf5293cc1602ba42c848aff908fddee41bf5a3f3e8e2"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/league.py",
+    "bytes": 6323,
+    "sha256": "196d11f4ef5c8b5995df0aaedb28a716c285f97ca936bc22e9c16aee90fdb081"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/overnight.sh",
+    "bytes": 1250,
+    "sha256": "2eca45296576f26b7cc06534fe00f78d0c073a9591da599aa53220f666714ca7"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/package.py",
+    "bytes": 4756,
+    "sha256": "20bb0884eb8c53bc63eafcfc6e8167a6557a90c56d4283f024b0ba6845527cfe"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/scout.py",
+    "bytes": 4604,
+    "sha256": "8260be9ad07718de5f6a07c35a2d800b2f961bb80f8165155d4d9f69ddd36fc3"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/selfplay.py",
+    "bytes": 4710,
+    "sha256": "284a236a01d55f75d2bd8af27059c319ad35bd8ed1372f8ed56be77a8e5768ae"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/submit.py",
+    "bytes": 2015,
+    "sha256": "20c4b4ebd5db9ed9bd9fc0aad7319362afee5d6dad4eceeac289f1d7e542c67e"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/train_policy.py",
+    "bytes": 4702,
+    "sha256": "55853f0b93af9df9228fd5de44789439882aac43c5a8bb86416a20e759dd6a58"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/train_value.py",
+    "bytes": 2712,
+    "sha256": "7f8aae3c31714c196ad98ef6fd69bbbbb9f6b8435993eb879a33ca5f3d354519"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/twin_gauntlet.py",
+    "bytes": 2452,
+    "sha256": "44db9b60b753cc11731335740a304dcce086f5348e4bf8e6ce4bd5153c9c32c4"
+  },
+  {
+    "path": "pokemon_kaggle_claude/tools/watch.py",
+    "bytes": 1865,
+    "sha256": "06cd5a1c53912b72c215395b0745cc2b57f0055078980a59f4a7744b558f105a"
+  }
+]

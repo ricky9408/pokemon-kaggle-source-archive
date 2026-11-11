@@ -1,0 +1,31 @@
+# Local Python/runtime state
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+*.swp
+*.swo
+
+# Local secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+kaggle.json
+.kaggle/
+
+# Large generated/raw artifacts that are reproducible or operational cache.
+# Keep derived reports under strategy/, analysis/, agents/, and package archives tracked.
+/scouting/
+/runs/
+/pokemon-tcg-ai-battle.zip
+/.critic_materialized/
+/evaluation_artifacts/materialized/
+/evaluation_v6_3/drand_verifier/node_modules/
